@@ -2,54 +2,67 @@ from playwright.sync_api import sync_playwright
 import time
 from datetime import datetime
 
+# URL Alvo
 URL_ALVO = "https://www2.embedtv.best/premiere"
 
-def coletar_fontes():
-    fontes = []
-    with sync_playwright() as p:
-        print("🚀 Analisando estruturas de iframe...")
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-        page = context.new_page()
+# PROXY BRASILEIRO (Se parar de funcionar, troque por um novo IP do Brasil)
+# Formato: http://IP:PORTA
+PROXY_BR = "http://189.126.108.131:8080" 
 
+def coletar_com_proxy():
+    links_encontrados = []
+    with sync_playwright() as p:
+        print(f"🇧🇷 Tentando capturar via Proxy Brasil: {PROXY_BR}")
         try:
-            page.goto(URL_ALVO, wait_until="networkidle", timeout=60000)
-            
-            # 1. Procura por links m3u8 antes do token (tentativa de bypass)
-            # 2. Captura o SRC de todos os iframes (fontes prováveis)
-            iframes = page.query_selector_all('iframe')
-            for iframe in iframes:
-                src = iframe.get_attribute('src')
-                if src and "embed" in src:
-                    print(f"🎥 Fonte encontrada: {src}")
-                    fontes.append(src)
-            
-            # Tenta capturar o tráfego também, mas filtrando a origem
+            # Lança o navegador configurado com o Proxy
+            browser = p.chromium.launch(
+                headless=True,
+                proxy={"server": PROXY_BR}
+            )
+            # Define o idioma para PT-BR para reforçar a localização
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                locale="pt-BR"
+            )
+            page = context.new_page()
+
+            # Escuta o tráfego de rede em busca do m3u8
             def interceptar(request):
                 url = request.url
-                if ".m3u8" in url and "cloudfront" not in url: # Evita o link com token do GitHub
-                     fontes.append(url)
-            
+                if ".m3u8" in url and "chunklist" not in url:
+                    if url not in links_encontrados:
+                        print(f"🔗 Link capturado: {url[:60]}...")
+                        links_encontrados.append(url)
+
             page.on("request", interceptar)
-            time.sleep(10)
 
-        except Exception as e:
-            print(f"❌ Erro: {e}")
-        finally:
+            # Timeout alto (90s) porque o proxy pode ser lento
+            page.goto(URL_ALVO, wait_until="networkidle", timeout=90000)
+            
+            # Simula um clique no centro para disparar o player
+            page.mouse.click(400, 300)
+            time.sleep(20) 
+
             browser.close()
+        except Exception as e:
+            print(f"❌ Erro durante a conexão: {e}")
+            
+    return list(set(links_encontrados))
 
-    return list(set(fontes))
-
-def salvar(links):
+def salvar_lista(links):
     with open("premiere_streams.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
+        f.write(f"# Gerada via Proxy BR em: {datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
+        
         if not links:
-            f.write("# Nenhum link de origem estatico encontrado\n")
+            f.write("# Nenhum link encontrado. Verifique se o proxy está online.\n")
         else:
             for i, link in enumerate(links, 1):
-                f.write(f"#EXTINF:-1, Premiere Origem {i}\n{link}\n")
+                # Adiciona o Referer necessário para abrir o link
+                f.write(f"#EXTINF:-1, Premiere HD BR {i}\n")
+                f.write(f"{link}|Referer=https://embedtv.best/\n\n")
 
 if __name__ == "__main__":
-    links = coletar_fontes()
-    salvar(links)
-    print(f"✅ Processo finalizado. {len(links)} fontes salvas.")
+    links = coletar_com_proxy()
+    salvar_lista(links)
+    print(f"✅ Processo finalizado. {len(links)} links salvos em premiere_streams.m3u")
