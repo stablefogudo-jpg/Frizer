@@ -1,39 +1,40 @@
 import requests
 import re
 
-# URL do site que contém os links
 URL_ALVO = "https://embedtv.best" 
 
 def extrair_links():
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
     }
     try:
-        response = requests.get(URL_ALVO, headers=headers, timeout=10)
-        content = response.text
+        print(f"Conectando a {URL_ALVO}...")
+        # Definimos um timeout de 15 segundos para não travar
+        response = requests.get(URL_ALVO, headers=headers, timeout=15)
         
-        # Busca links m3u8 usando Expressão Regular
-        links = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+\.m3u8', content)
-        
-        # Remove duplicados e organiza
-        links_unicos = sorted(list(set(links)))
-        
-        return links_unicos
+        if response.status_code == 200:
+            print("Site acessado com sucesso! Buscando links...")
+            content = response.text
+            # Busca links m3u8
+            links = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+\.m3u8', content)
+            return sorted(list(set(links)))
+        else:
+            print(f"O site bloqueou o acesso. Código: {response.status_code}")
+            return []
     except Exception as e:
-        print(f"Erro ao coletar: {e}")
+        print(f"Erro na conexão (o site pode estar protegendo contra bots): {e}")
         return []
 
 def salvar_lista(links):
     with open("minha_lista.m3u", "w") as f:
         f.write("#EXTM3U\n")
-        for link in links:
-            # Aqui você pode personalizar o nome do canal se quiser
-            f.write(f"#EXTINF:-1, Canal Atualizado\n{link}\n")
+        if not links:
+            f.write("# AVISO: Nenhum link foi encontrado hoje. O site pode ter mudado a estrutura.\n")
+        for i, link in enumerate(links):
+            f.write(f"#EXTINF:-1, Canal Atualizado {i+1}\n{link}\n")
 
 if __name__ == "__main__":
     links = extrair_links()
-    if links:
-        salvar_lista(links)
-        print(f"Sucesso! {len(links)} links encontrados.")
-    else:
-        print("Nenhum link encontrado.")
+    salvar_lista(links)
+    print(f"Fim do processo. Links encontrados: {len(links)}")
