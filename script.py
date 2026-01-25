@@ -7,7 +7,7 @@ URL_ALVO = "https://www2.embedtv.best/premiere"
 
 # PROXY BRASILEIRO (Se parar de funcionar, troque por um novo IP do Brasil)
 # Formato: http://IP:PORTA
-PROXY_BR = "http://189.126.108.131:8080" 
+PROXY_BR = "http://168.205.234.18:8080" 
 
 def coletar_com_proxy():
     links_encontrados = []
