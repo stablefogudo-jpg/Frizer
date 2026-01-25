@@ -2,14 +2,14 @@ name: Atualizador Diario
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Roda todo dia às 00:00 no Brasil (3:00 UTC)
-  workflow_dispatch: # Ativa o botão de rodar manualmente
+    - cron: '0 3 * * *' # Todo dia às 00:00 Brasília
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Instalar Requests
+      - name: Instalar Dependencias
         run: pip install requests
 
       - name: Executar Script
@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add minha_lista.m3u
-          git commit -m "Lista atualizada" || exit 0
+          git add lista_streams.m3u
+          git commit -m "Lista atualizada: $(date +'%d/%m/%Y %H:%M')" || exit 0
           git push
