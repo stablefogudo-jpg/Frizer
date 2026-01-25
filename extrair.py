@@ -1,54 +1,79 @@
 import time
-import json
+import subprocess
 from playwright.sync_api import sync_playwright
 
-# URL do canal
-BASE_URL = "https://www2.embedtv.best/premiere"
+# DICIONÁRIO COMPLETO DE CANAIS
+CANAIS = {
+    "Premiere 1": "https://www2.embedtv.best/premiere",
+    "Premiere 2": "https://www2.embedtv.best/premiere2",
+    "Premiere 3": "https://www2.embedtv.best/premiere3",
+    "Premiere 4": "https://www2.embedtv.best/premiere4",
+    "Premiere 5": "https://www2.embedtv.best/premiere5",
+    "Sportv": "https://www2.embedtv.best/sportv",
+    "Cartoon Network": "https://www2.embedtv.best/cartoonnetwork",
+    "Discovery Channel": "https://www2.embedtv.best/discoverychannel",
+    "History": "https://www2.embedtv.best/history",
+    "History 2": "https://www2.embedtv.best/history2",
+    "Globo RJ": "https://www2.embedtv.best/globorj",
+    "Nickelodeon": "https://www2.embedtv.best/nickelodeon",
+    "Record": "https://www2.embedtv.best/record",
+    "SBT": "https://www2.embedtv.best/sbt",
+    "Animal Planet": "https://www2.embedtv.best/animalplanet",
+    "Todo Mundo Odeia o Chris 24h": "https://www2.embedtv.best/24h_odeiachris",
+    "Simpsons 24h": "https://www2.embedtv.best/24h_simpsons"
+}
 
-def extrair_no_meu_ip():
-    links_encontrados = []
-    
+NOME_ARQUIVO = "bielas.css" # Nome camuflado do arquivo
+
+def enviar_para_github():
+    try:
+        print(f"\n📤 Sincronizando {NOME_ARQUIVO} com o GitHub...")
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "System update"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("✅ SUCESSO! Repositório atualizado.")
+    except Exception as e:
+        print(f"❌ Erro no envio: {e}")
+
+def extrair_todos_canais():
+    resultados = []
     with sync_playwright() as p:
-        # headless=False para você ver o navegador trabalhando
-        browser = p.chromium.launch(headless=False) 
-        context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-        page = context.new_page()
+        browser = p.chromium.launch(headless=True)
+        for nome, url in CANAIS.items():
+            print(f"🚀 Verificando: {nome}...", end=" ", flush=True)
+            context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+            page = context.new_page()
+            link_encontrado = {"url": None}
 
-        # Captura os links .m3u8 que passarem pela rede
-        def monitorar_rede(route):
-            url = route.request.url
-            if ".m3u8" in url.lower():
-                print(f"✅ Link encontrado: {url}")
-                links_encontrados.append(url)
-            route.continue_()
+            page.route("**/*", lambda route: (
+                link_encontrado.update({"url": route.request.url}) 
+                if ".m3u8" in route.request.url.lower() else None, 
+                route.continue_()
+            ))
 
-        page.route("**/*", monitorar_rede)
-
-        try:
-            print(f"Abrindo: {BASE_URL}")
-            page.goto(BASE_URL, wait_until="networkidle", timeout=60000)
-            
-            # Clique para iniciar o player (ajuste as coordenadas se necessário)
-            time.sleep(5)
-            page.mouse.click(400, 300) 
-            
-            print("Capturando tráfego por 30 segundos...")
-            time.sleep(30)
-            
-        except Exception as e:
-            print(f"Ocorreu um erro: {e}")
-        finally:
-            browser.close()
-            
-    return list(set(links_encontrados))
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                for _ in range(15): 
+                    if link_encontrado["url"]: break
+                    if _ == 5: page.mouse.click(400, 300)
+                    time.sleep(1)
+                
+                if link_encontrado["url"]:
+                    resultados.append({"nome": nome, "link": link_encontrado["url"]})
+                    print("✅")
+                else: print("❌")
+            except Exception: print("❌")
+            finally: page.close()
+        browser.close()
+    return resultados
 
 if __name__ == "__main__":
-    links = extrair_no_meu_ip()
-    if links:
-        with open("meus_links.m3u", "w", encoding="utf-8") as f:
+    start_time = time.time()
+    lista_final = extrair_todos_canais()
+    if lista_final:
+        with open(NOME_ARQUIVO, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
-            for link in links:
-                f.write(f"#EXTINF:-1, Canal Local\n{link}\n")
-        print(f"\n🔥 SUCESSO! {len(links)} link(s) salvo(s) em 'meus_links.m3u'")
-    else:
-        print("\n❌ Nenhum link foi capturado. Verifique se o vídeo chegou a carregar.")
+            for canal in lista_final:
+                f.write(f"#EXTINF:-1, {canal['nome']}\n{canal['link']}\n")
+        enviar_para_github()
+    print(f"\n⏱️ Concluído em {int(time.time() - start_time)}s.")
