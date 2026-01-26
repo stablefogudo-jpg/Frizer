@@ -70,10 +70,19 @@ def extrair_todos_canais():
 if __name__ == "__main__":
     start_time = time.time()
     lista_final = extrair_todos_canais()
+    
     if lista_final:
         with open(NOME_ARQUIVO, "w", encoding="utf-8") as f:
+            # Cabeçalho obrigatório para listas M3U
             f.write("#EXTM3U\n")
             for canal in lista_final:
-                f.write(f"#EXTINF:-1, {canal['nome']}\n{canal['link']}\n")
+                # Removemos espaços após a vírgula para compatibilidade total com Roku
+                # Estrutura: #EXTINF:-1,Nome do Canal
+                f.write(f"#EXTINF:-1,{canal['nome'].strip()}\n")
+                # Link direto na linha de baixo
+                f.write(f"{canal['link'].strip()}\n")
+        
+        # Após salvar o arquivo localmente, envia para o GitHub
         enviar_para_github()
+    
     print(f"\n⏱️ Concluído em {int(time.time() - start_time)}s.")
