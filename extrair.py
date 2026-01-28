@@ -4,8 +4,24 @@ from playwright.sync_api import sync_playwright
 
 # DICIONÁRIO COMPLETO DE CANAIS
 CANAIS = {
-    "Globo": "https://embedtvonline.com/globorj/",
-    }
+    "Premiere 1": "https://www2.embedtv.best/premiere",
+    "Premiere 2": "https://www2.embedtv.best/premiere2",
+    "Globo News": "https://rdcanais.top/globonews",
+    "Premiere 4": "https://www2.embedtv.best/premiere4",
+    "Premiere 5": "https://www2.embedtv.best/premiere5",
+    "Sportv": "https://www2.embedtv.best/sportv",
+    "Cartoon Network": "https://www2.embedtv.best/cartoonnetwork",
+    "Discovery Channel": "https://www2.embedtv.best/discoverychannel",
+    "History": "https://www2.embedtv.best/history",
+    "History 2": "https://www2.embedtv.best/history2",
+    "Globo RJ": "https://www2.embedtv.best/globorj",
+    "Nickelodeon": "https://www2.embedtv.best/nickelodeon",
+    "Record": "https://www2.embedtv.best/record",
+    "SBT": "https://www2.embedtv.best/sbt",
+    "Animal Planet": "https://www2.embedtv.best/animalplanet",
+    "Todo Mundo Odeia o Chris 24h": "https://www2.embedtv.best/24h_odeiachris",
+    "Simpsons 24h": "https://www2.embedtv.best/24h_simpsons"
+}
 
 NOME_ARQUIVO = "bielas.css" # Nome camuflado do arquivo
 
