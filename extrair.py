@@ -23,29 +23,32 @@ CANAIS = {
     "Simpsons 24h": "https://www2.embedtv.best/24h_simpsons"
 }
 
-NOME_ARQUIVO = "bielas.css" # Nome camuflado do arquivo
+NOME_ARQUIVO = "bielas.css"
 
 def enviar_para_github():
     try:
         print(f"\n📤 Sincronizando {NOME_ARQUIVO} com o GitHub...")
         
-        # 1. Adiciona todos os arquivos alterados
+        # 1. Prepara as mudanças locais
         subprocess.run(["git", "add", "."], check=True)
         
-        # 2. Verifica se há algo de fato para commitar (evita erro de status 1)
+        # 2. Verifica se há algo novo para commitar
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
-        
         if status:
             print("✨ Mudanças detectadas. Realizando commit...")
             subprocess.run(["git", "commit", "-m", "System update: links atualizados"], check=True)
         else:
             print("ℹ️ Nenhuma mudança nova para commitar.")
 
-        # 3. Sempre tenta dar o Push (limpa commits pendentes)
+        # 3. SINCRONIZAÇÃO (Puxa as mudanças do GitHub para evitar erro de 'rejected')
+        print("🔄 Sincronizando com o servidor (git pull --rebase)...")
+        subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
+
+        # 4. Envia os dados para o repositório
         print("🚀 Enviando para o repositório remoto...")
         subprocess.run(["git", "push", "origin", "main"], check=True)
         
-        print("✅ SUCESSO! Repositório sincronizado.")
+        print("✅ SUCESSO! Repositório atualizado e sincronizado.")
         
     except subprocess.CalledProcessError as e:
         print(f"❌ Erro de comando Git: {e}")
@@ -55,9 +58,7 @@ def enviar_para_github():
 def extrair_todos_canais():
     resultados = []
     with sync_playwright() as p:
-        # Launch com chromium
         browser = p.chromium.launch(headless=True)
-        # Criamos um único contexto para a sessão inteira
         context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
         
         for nome, url in CANAIS.items():
@@ -65,7 +66,7 @@ def extrair_todos_canais():
             page = context.new_page()
             link_encontrado = {"url": None}
 
-            # Interceptador de rede para capturar o .m3u8
+            # Interceptador de tráfego para achar o arquivo de vídeo
             page.route("**/*", lambda route: (
                 link_encontrado.update({"url": route.request.url}) 
                 if ".m3u8" in route.request.url.lower() else None, 
@@ -75,10 +76,9 @@ def extrair_todos_canais():
             try:
                 page.goto(url, wait_until="domcontentloaded", timeout=30000)
                 
-                # Loop de espera pelo link (máximo 15 segundos)
+                # Aguarda o link ser disparado (clique simulado se demorar)
                 for _ in range(15): 
                     if link_encontrado["url"]: break
-                    # Simula clique no player para disparar o carregamento se necessário
                     if _ == 5: page.mouse.click(400, 300)
                     time.sleep(1)
                 
@@ -86,11 +86,11 @@ def extrair_todos_canais():
                     resultados.append({"nome": nome, "link": link_encontrado["url"]})
                     print("✅")
                 else: 
-                    print("❌ (Link não capturado)")
+                    print("❌")
             except Exception: 
-                print("❌ (Timeout/Erro)")
+                print("❌")
             finally: 
-                page.close() # Fecha apenas a aba para não sobrecarregar
+                page.close()
                 
         browser.close()
     return resultados
@@ -102,7 +102,7 @@ if __name__ == "__main__":
     lista_final = extrair_todos_canais()
     
     if lista_final:
-        # Gravação do arquivo formatado
+        # Gera o arquivo M3U (com extensão .css para camuflar)
         with open(NOME_ARQUIVO, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for canal in lista_final:
@@ -110,6 +110,6 @@ if __name__ == "__main__":
         
         enviar_para_github()
     else:
-        print("\n⚠️ Nenhum link foi extraído. O envio ao GitHub foi cancelado.")
+        print("\n⚠️ Falha crítica: Nenhum link capturado. Abortando upload.")
         
     print(f"\n⏱️ Processo concluído em {int(time.time() - start_time)}s.")
