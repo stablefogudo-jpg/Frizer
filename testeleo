@@ -1,27 +1,277 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://docdog.top/logo/countries/brazil/ae.png" group-title="LAME | BRAZIL VIP",BR: A&E
-http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4829
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL VIP",BR: AMC
-http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4830
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/brazil/animalplanet.png" group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
-http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4831
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://docdog.top/logo/countries/brazil/axn.png" group-title="LAME | BRAZIL VIP",BR: AXN
-http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4832
-#EXTINF:-1 tvg-id="" tvg-name="Venom: A Última Rodada" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg" group-title="Filmes | Cinema",Venom: A Última Rodada
-http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/494886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Substância" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg" group-title="Filmes | Cinema",A Substância
-http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/494887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kraven: O Caçador" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg" group-title="Filmes | Cinema",Kraven: O Caçador
-http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/494891.mp4
-#EXTINF:-1, Globo
+#EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/715.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP FHD H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/714.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/741.m3u8
+#EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SP SD " tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP SD 
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/492.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
 http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/362.m3u8
-#EXTINF:-1, SBT
-http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/370.m3u8
-#EXTINF:-1, Record
-http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/87102.m3u8
-#EXTINF:-1, Band
-http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/307.m3u8
-#EXTINF:-1, Sportv
-http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/776.m3u8
-#EXTINF:-1, Sportv2
-http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/236.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ H265
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/76673.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/335.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ SD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/491.m3u8
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/851.m3u8
+#EXTINF:-1 tvg-id="A&E FHD H.265" tvg-name="A&E FHD H265" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD H265
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/210.m3u8
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/1.m3u8
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS  | FILMES E SERIES",A&E SD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS FHD" tvg-logo="https://images2.imgbox.com/a9/c2/WOPxypNq_o.png" group-title="CANAIS | ESPORTES",ALL SPORTS FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/31745.m3u8
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://images2.imgbox.com/c5/b1/vDGikpom_o.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/840.m3u8
+#EXTINF:-1 tvg-id="AMC FHD H.265" tvg-name="AMC FHD H265" tvg-logo="https://images2.imgbox.com/c5/b1/vDGikpom_o.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD H265
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/211.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://images2.imgbox.com/c5/b1/vDGikpom_o.png" group-title="CANAIS  | FILMES E SERIES",AMC HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/2.m3u8
+#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC SD" tvg-logo="https://images2.imgbox.com/c5/b1/vDGikpom_o.png" group-title="CANAIS  | FILMES E SERIES",AMC SD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/445.m3u8
+#EXTINF:-1 tvg-id="Animal Planet FHD [Alter]" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/804.m3u8
+#EXTINF:-1 tvg-id="Animal Planet FHD H.265" tvg-name="ANIMAL PLANET H265" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET H265
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/212.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/3.m3u8
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://images2.imgbox.com/f2/e7/M99ieJuG_o.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM ( RADIOS)" tvg-logo="https://i.imgur.com/fEwSvB1.png" group-title="RADIOS",ANTENA 1 FM ( RADIOS)
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/177.m3u8
+#EXTINF:-1 tvg-id="Arte 1 FHD" tvg-name="ARTE 1 FHD" tvg-logo="https://images2.imgbox.com/77/f3/AsZeXT00_o.png" group-title="CANAIS | DOCUMENTARIOS",ARTE 1 FHD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/876.m3u8
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="https://images2.imgbox.com/77/f3/AsZeXT00_o.png" group-title="CANAIS | DOCUMENTARIOS",ARTE 1 HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dias Vazios" tvg-logo="http://gstaticontent.com:80/images/rUNpAJN6ApR7ERF5FCPqJ59LUoX_big.jpg" group-title="Filmes | Nacionais",Dias Vazios
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Nossos Pais" tvg-logo="http://gstaticontent.com:80/images/qnB014Lkp5oq6yuSJpr6jH8U91J_big.jpg" group-title="Filmes | Nacionais",Como Nossos Pais
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chocante" tvg-logo="http://gstaticontent.com:80/images/dokMmYTOzQVChqUrYNnGDm9TwWk_big.jpg" group-title="Filmes | Nacionais",Chocante
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Democracia Em Vertigem" tvg-logo="http://gstaticontent.com:80/images/z2aPe57jyW0TPYLVBXb8T0yBFGQ_big.jpg" group-title="Filmes | Nacionais",Democracia Em Vertigem
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob Pressao" tvg-logo="http://gstaticontent.com:80/images/lSibFrGTDaXy96lDZnUdtEDMYaw_big.jpg" group-title="Filmes | Nacionais",Sob Pressao
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy 2 A Chibata Sideral" tvg-logo="http://gstaticontent.com:80/images/jqIsvzb2uzpJ8LmLnntR2jBntNS_big.jpg" group-title="Filmes | Nacionais",Cine Holliudy 2 A Chibata Sideral
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas Pro Ar 3" tvg-logo="http://gstaticontent.com:80/images/7O75EXzA8sx6gTuCGEvYcG13MYq_big.jpg" group-title="Filmes | Nacionais",De Pernas Pro Ar 3
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albatroz" tvg-logo="http://gstaticontent.com:80/images/gmRKjdDfElqgq72kJhHHbiERZG2_big.jpg" group-title="Filmes | Nacionais",Albatroz
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Fama de Mau" tvg-logo="http://gstaticontent.com:80/images/uMx8QhEZrnHRjeDUDRAhZyUFiaY_big.jpg" group-title="Filmes | Nacionais",Minha Fama de Mau
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Babá Muito Esquisita" tvg-logo="http://gstaticontent.com:80/images/qmVSmuiWPgHkv8uDOrLn9nGLysI_big.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Uma Babá Muito Esquisita
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazante" tvg-logo="http://gstaticontent.com:80/images/pK1CHVJ8A3MzRE6JrkWdIm1aQ60_big.jpg" group-title="Filmes | Nacionais",Vazante
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Davi O Filme" tvg-logo="http://gstaticontent.com:80/images/pK1CHVJ8A3MzRE6JrkWdIm1aQ60_big.jpg" group-title="Filmes | Nacionais",Rei Davi O Filme
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Mamae" tvg-logo="http://gstaticontent.com:80/images/m5KGfJZqj7NlnOS5F5DfI2M03cU_big.jpg" group-title="Filmes | Nacionais",Querida Mamae
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel E A Montanha" tvg-logo="http://gstaticontent.com:80/images/wS4CN3Yc5tVLikxJFZHd988SH40_big.jpg" group-title="Filmes | Nacionais",Gabriel E A Montanha
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Idas E Vindas" tvg-logo="http://gstaticontent.com:80/images/rzzwDQVAQhVrayMuOoWkPtnaTNu_big.jpg" group-title="Filmes | Nacionais",Entre Idas E Vindas
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy" tvg-logo="http://gstaticontent.com:80/images/rvTLvv9hxJEcdLfbhOWtZP7swkh_big.jpg" group-title="Filmes | Nacionais",Cine Holliudy
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Station" tvg-logo="http://gstaticontent.com:80/images/y1qSb5mkdlZpKQC70FWldZ53C6k_big.jpg" group-title="Filmes | Nacionais",Central Station
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo - O Filme" tvg-logo="http://gstaticontent.com:80/images/30L6WkIEW2ipB9OHKGkmiY9YDp0_big.jpg" group-title="Filmes | Nacionais",Sai de Baixo - O Filme
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yonlu" tvg-logo="http://gstaticontent.com:80/images/zC37olnhFKTwz36LVOelBNwInzv_big.jpg" group-title="Filmes | Nacionais",Yonlu
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Capitalismo" tvg-logo="http://gstaticontent.com:80/images/zXIWQoHWyZrFzsDDqVoDg92BItT_big.jpg" group-title="Filmes | Nacionais",Um Novo Capitalismo
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Por Um Popstar" tvg-logo="http://gstaticontent.com:80/images/8SAAmvqFqYgO5AjKQLrvy4RozDM_big.jpg" group-title="Filmes | Nacionais",Tudo Por Um Popstar
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relampago" tvg-logo="http://gstaticontent.com:80/images/d5x6yP7mc5NNhJittysbb5bO0Sn_big.jpg" group-title="Filmes | Nacionais",Sequestro Relampago
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coracao" tvg-logo="http://gstaticontent.com:80/images/21TGdSdl4zPtggfmhNyNgPpFzfN_big.jpg" group-title="Filmes | Nacionais",Rasga Coracao
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paixao de Cristo de Nova Jerusalem" tvg-logo="http://a5.vc/U9K" group-title="Filmes | Nacionais",Paixao de Cristo de Nova Jerusalem
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Circo Místico" tvg-logo="http://gstaticontent.com:80/images/mGb7dmGFIWSigLou8FYq8zlqF45_big.jpg" group-title="Filmes | Nacionais",O Grande Circo Místico
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao se Aceitam Devolucoes" tvg-logo="http://gstaticontent.com:80/images/2I7tRFLss54Kjyq9p0gPf74lXXo_big.jpg" group-title="Filmes | Nacionais",Nao se Aceitam Devolucoes
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Pop" tvg-logo="http://gstaticontent.com:80/images/uL0TrrV5MHQFkwRxlho0dDKTwvm_big.jpg" group-title="Filmes | Nacionais",Cinderela Pop
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964 - O Brasil Entre Armas e Livros" tvg-logo="http://gstaticontent.com:80/images/mUcLVYkvUxmNsd8ZcOvAs1c7ZLc_big.jpg" group-title="Filmes | Nacionais",1964 - O Brasil Entre Armas e Livros
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Acaba Em Festa" tvg-logo="http://gstaticontent.com:80/images/wnlOjxVeUXHwcHOEN0s1vSgJHCh_big.jpg" group-title="Filmes | Nacionais",Tudo Acaba Em Festa
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Perfeito" tvg-logo="http://gstaticontent.com:80/images/A7cZjJDYmHUFYmbIFJmPuOrNgMw_big.jpg" group-title="Filmes | Nacionais",O Homem Perfeito
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida em Marte" tvg-logo="http://gstaticontent.com:80/images/5jFmp5RmaBAY0LoEYZb4KDp0GZc_big.jpg" group-title="Filmes | Nacionais",Minha Vida em Marte
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Predio Azul 2" tvg-logo="http://gstaticontent.com:80/images/eLJpPkLUbH2xiHn6onKQ0D0Y7fA_big.jpg" group-title="Filmes | Nacionais",Detetives do Predio Azul 2
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros" tvg-logo="http://gstaticontent.com:80/images/tSUGsF1GSNLZAEjeePsDlHBhG0a_big.jpg" group-title="Filmes | Nacionais",Os Farofeiros
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Policia Federal a Lei e Para Todos" tvg-logo="http://gstaticontent.com:80/images/lYOBHagDwOv66TUzRy265qSWwTP_big.jpg" group-title="Filmes | Nacionais",Policia Federal a Lei e Para Todos
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loop Infinito" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg" group-title="Filmes | Ficcao",Loop Infinito
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: A Última Rodada" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg" group-title="Filmes | Ficcao",Venom: A Última Rodada
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="Filmes | Ficcao",A Viagem
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejos Ocultos" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/jM3pv9GEe137fdOzMgu3j7r2e0k.jpg" group-title="Filmes | Ficcao",Desejos Ocultos
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Garoto da Terra" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/muqwfWK7m73uUftKj077sEhE1Iy.jpg" group-title="Filmes | Ficcao",O Último Garoto da Terra
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visão: Estendida" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/qDwlTL3IzmRvsEHV1SagXIOHtmc.jpg" group-title="Filmes | Ficcao",Visão: Estendida
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade Ácida" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/14PKR6jDSqzn9jP6L4Dw0eUdfYz.jpg" group-title="Filmes | Ficcao",Tempestade Ácida
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feios" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/nag7Z3XqW3wJv4Q0xgCQLNE8nuj.jpg" group-title="Filmes | Ficcao",Feios
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presságio (2009)" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/At03GrpqsbeomLuLTRCyCMvSFI5.jpg" group-title="Filmes | Ficcao",Presságio (2009)
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliens: O Resgate" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/cKagHBFEzD9ebVocyXRxdnZFdMo.jpg" group-title="Filmes | Ficcao",Aliens: O Resgate
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contaminados Pelo Medo" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/1jmM1N8rp826pG56zfqNs2mNMMZ.jpg" group-title="Filmes | Ficcao",Contaminados Pelo Medo
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/iNMP8uzV2Ing6ZCw0IICgEFVNfC.jpg" group-title="Filmes | Ficcao",Avatar
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: A Invasão" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="Filmes | Ficcao",Attraction 2: A Invasão
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/1Kcjf0DXimg44Z1bEuzXUjJHNqi.jpg" group-title="Filmes | Ficcao",Depois da Terra
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Sem Limites" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/d66KHiNTQU020qXJn3H5FyzXkDa.jpg" group-title="Filmes | Ficcao",Poder Sem Limites
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lado Escuro da Lua" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/jMGkoGIilJah8jCn4wVVmwdu01c.jpg" group-title="Filmes | Ficcao",O Lado Escuro da Lua
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Waterworld: O Segredo das Águas" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/2mB4iPYJTwpHq3xJ2nz52wxBp5r.jpg" group-title="Filmes | Ficcao",Waterworld: O Segredo das Águas
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meteoro: O Fim dos Tempos" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/52HH16StATWgkxWrq9IpufOtiDs.jpg" group-title="Filmes | Ficcao",Meteoro: O Fim dos Tempos
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 2: A Marcadora de Cicatrizes [Corte do Diretor]" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 2: A Marcadora de Cicatrizes [Corte do Diretor]
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 1: A Menina do Fogo [Corte do Diretor]" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 1: A Menina do Fogo [Corte do Diretor]
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado" tvg-logo="http://gstaticontent.com//t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg" group-title="Filmes | Ficcao",Planeta dos Macacos: O Reinado
+http://espetinhos.cdnjsplaytpp.online:80/movie/awz8gmbn/z0j3bp58/472979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E01" tvg-logo="http://timg.bdta.pro/images/421ecf2b07155db77d1dd706d04b9220.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E01
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E02" tvg-logo="http://timg.bdta.pro/images/49a3bc979bde8709b88df344ada2a59c.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E02
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E03" tvg-logo="http://timg.bdta.pro/images/7da512b4b67bd9fa854714bd6f31c57a.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E03
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E04" tvg-logo="http://timg.bdta.pro/images/9d4ee424980107296165070b3aef6496.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E04
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E05" tvg-logo="http://timg.bdta.pro/images/347a8630bcc00074fc68f03508c61378.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E05
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E06" tvg-logo="http://timg.bdta.pro/images/bd551e2fc2dc89530237ed614e3ee968.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E06
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E07" tvg-logo="http://timg.bdta.pro/images/a53c9388c98fd44b201dfa2756b3b05a.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E07
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E08" tvg-logo="http://timg.bdta.pro/images/644b2ddc807b4c0b4ab30189af448fd5.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E08
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E09" tvg-logo="http://timg.bdta.pro/images/0b9c7760546ac77824e743a6b53d06fe.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E09
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E10" tvg-logo="http://timg.bdta.pro/images/b5e9002af2a5d841138440c8e59c40f3.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E10
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E11" tvg-logo="http://timg.bdta.pro/images/963b2ec8267df3f751438117602e0988.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E11
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E12" tvg-logo="http://timg.bdta.pro/images/47e41b5b7c5ee568245c61ff00795353.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E12
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E13" tvg-logo="http://timg.bdta.pro/images/ac74aa7389f354deb3601cf72890484a.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E13
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S04 E14" tvg-logo="http://timg.bdta.pro/images/74b4084f5ce173e95f411df94fceca3e.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S04 E14
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E01" tvg-logo="http://timg.bdta.pro/images/3519127a86992f298a007b168d00dff3.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E01
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E02" tvg-logo="http://timg.bdta.pro/images/1206a61657ed8a36fca5b9488ba8cef2.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E02
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E03" tvg-logo="http://timg.bdta.pro/images/7b86f16f58c1e5694dbac1a3eb99e477.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E03
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E04" tvg-logo="http://timg.bdta.pro/images/5880e60227844ba209f1426a297d2a65.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E04
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E05" tvg-logo="http://timg.bdta.pro/images/f0bf243fbb050805200edabfea064dff.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E05
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E06" tvg-logo="http://timg.bdta.pro/images/422bd220f626ce1f4cb6e553c17a2581.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E06
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E07" tvg-logo="http://timg.bdta.pro/images/fb6ea05e5419259d931450262699816f.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E07
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E08" tvg-logo="http://timg.bdta.pro/images/9a01170c4814d1ecf1533aade699fa98.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E08
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E09" tvg-logo="http://timg.bdta.pro/images/ae1818584e9d68250a8edde0ea3e1014.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E09
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E10" tvg-logo="http://timg.bdta.pro/images/4d79f341c4d54be40763d92d4a19dd3d.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E10
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E11" tvg-logo="http://timg.bdta.pro/images/496fa4a7ae07aaaea0abf296e121d6d0.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E11
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E12" tvg-logo="http://timg.bdta.pro/images/442ee352a81999d3cab4aa445bd5d885.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E12
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E13" tvg-logo="http://timg.bdta.pro/images/9e95deedaecdebf0d0a2d60930fd33f8.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E13
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E14" tvg-logo="http://timg.bdta.pro/images/e03b5219620ea7bb56467e4303fef034.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E14
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E15" tvg-logo="http://timg.bdta.pro/images/89ad2b6cd9c00861bc1a921c196bd97a.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E15
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E16" tvg-logo="http://timg.bdta.pro/images/db8b67bb40ce1cca5e6c3b9b7fd4da58.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E16
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E17" tvg-logo="http://timg.bdta.pro/images/2ab9fa83e8a697e15ee262606df2a0a0.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E17
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S05 E18" tvg-logo="http://timg.bdta.pro/images/d77680182909dfde049df0ab8a788555.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S05 E18
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/rMP25V7qpG1ZbRWOzIHKeQzDTtr.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E01
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbAsEJTc8XAaoTB6cAfNRjMXH42.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E02
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6LB4eIjFKBcgIdy64EPMuZBfOGn.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E03
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/u8kVuNwoDHY4zGXZ2wjmjmc1Qbz.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E04
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/tvi8241Ur06b9yBG6q5jFD1ZrUg.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E05
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/j9o80cnGBU8L8Iqt39aoVQSNjvX.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E06
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/8gVlROoChooLrYEG9hnLzinbFLG.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E07
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/2M8xPERC62PIpP4Ey1aMSgespcP.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E08
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/5oCMuLiTbXF64zV5xytOKcseClD.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E09
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E10" tvg-logo="http://timg.bdta.pro/t/p/w1280/9YwSGyg0GYjrHEWXw91lO67AUsd.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E10
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E11" tvg-logo="http://timg.bdta.pro/t/p/w1280/tHaoUAe2PXvLbJp0zhMaTsskiWI.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E11
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kZyN7Rtg4daCu45haXfq2VBtIDV.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E12
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fx79g5K1UcpCVT2kT4j360WVt9k.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E13
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E14" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/cHYTofTT9Sw6HniQurRsCLsv8nH.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E14
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E15" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wuz3BQ518q71jrGH8KauhtFxrLN.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E15
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E16" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gnxlduw5Ff8SnYz77ev7jgifwdK.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E16
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E17" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/utSCwRUCvo8mF0HceRrc7XigZMd.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E17
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S06 E18" tvg-logo="http://timg.bdta.pro/t/p/w1280/ydHHnXfMmbAnz06gAznZHkNp1Gz.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S06 E18
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/247152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mV4JTIlSu5viRjTIxNqr0BFURgq.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E01
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ptKKhcugCMEqaj4axhsajaRcz24.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E02
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bWVl7wyhKmYK5lMs3p6HONbvGNx.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E03
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pLhwEMLj3RhHBFA09jZ9mLvjAbD.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E04
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E05" tvg-logo="https://image.tmdb.org/t/p/w300/llRo7T7A0zdFw6rpGgaTqJwjLCV.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E05
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vgpyyrc6EDmu9WPfNivtO2I8WHJ.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E06
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8K5XIk6hobFkTCW6Ab2sM4vpbLt.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E07
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E08" tvg-logo="https://image.tmdb.org/t/p/w300/233KI5tJOTscRr4r85lBDqGu6z3.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E08
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E09" tvg-logo="https://image.tmdb.org/t/p/w300/myUxfcqSEcap5XunE3VNqgIvCHl.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E09
+http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444707.mp4
