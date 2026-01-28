@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 CANAIS = {
     "Premiere 1": "https://www2.embedtv.best/premiere",
     "Premiere 2": "https://www2.embedtv.best/premiere2",
-    "Globo News": "https://rdcanais.top/globonews",
+    "Discovery ID": "https://www2.embedtv.best/discoveryid",
     "Premiere 4": "https://www2.embedtv.best/premiere4",
     "Premiere 5": "https://www2.embedtv.best/premiere5",
     "Sportv": "https://www2.embedtv.best/sportv",
