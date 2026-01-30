@@ -5,7 +5,7 @@ import playwright_stealth
 
 # --- CONFIGURAÇÕES ---
 CANAIS = {
-    "Premiere 1": "https://embedtvonline.com/globorj/",
+    "Premiere 1": "https://rdcanais.top/adultswim",
 }
 NOME_ARQUIVO = "bielas.css"
 
