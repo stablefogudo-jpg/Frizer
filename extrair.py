@@ -14,14 +14,13 @@ NOME_ARQUIVO = "bielas.css"
 def enviar_para_github():
     try:
         print(f"\n📤 Sincronizando {NOME_ARQUIVO} com o GitHub...")
-        # Limpa rebases travados antes de começar
         subprocess.run(["git", "rebase", "--abort"], capture_output=True)
         subprocess.run(["git", "add", "."], check=True)
         
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
         if status:
             print("✨ Mudanças detectadas. Realizando commit...")
-            subprocess.run(["git", "commit", "-m", "System update: Master link atualizado"], check=True)
+            subprocess.run(["git", "commit", "-m", "System update: Master Playlist Fixed"], check=True)
             print("🔄 Sincronizando com o servidor...")
             subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
             print("🚀 Enviando para o repositório remoto...")
@@ -37,6 +36,7 @@ def extrair_todos_canais():
     resultados = []
     
     with sync_playwright() as p:
+        # Usamos headless=True para rodar no servidor, mas headless=False ajuda a debugar localmente
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -46,43 +46,51 @@ def extrair_todos_canais():
             print(f"🚀 Verificando: {nome}...", end=" ", flush=True)
             page = context.new_page()
             
-            # Aplica o stealth (camuflagem anti-bot)
+            # Camuflagem anti-bot
             if hasattr(playwright_stealth, 'stealth_sync'):
                 playwright_stealth.stealth_sync(page)
             elif hasattr(playwright_stealth, 'stealth_page_sync'):
                 playwright_stealth.stealth_page_sync(page)
             
-            links_m3u8 = []
+            links_encontrados = []
 
             def interceptar(request):
                 u = request.url.lower()
-                # FILTRO MASTER: Ignora lixo e foca no manifesto principal
-                if ".m3u8" in u:
-                    lixo = ["chunk", "mono", "tracks", "v1", "v2", "index-", "ts.m3u8"]
+                # Captura m3u8 filtrando segmentos irrelevantes (.ts)
+                if ".m3u8" in u and "chunk" not in u:
+                    # Lista de prioridade: preferimos links que NÃO tenham 'index', 'mono' ou 'tracks'
+                    lixo = ["mono", "tracks", "v1", "v2", "ts.m3u8"]
                     if not any(x in u for x in lixo):
-                        links_m3u8.append(request.url)
+                        links_encontrados.append(request.url)
 
             page.on("request", interceptar)
 
             try:
                 page.goto(url, wait_until="networkidle", timeout=60000)
                 
-                # Aguarda até 15 segundos pelo link master
-                for i in range(15):
-                    if links_m3u8: break
-                    if i == 5: page.mouse.click(640, 360) # Clique simulado
+                # Interação agressiva para disparar o stream
+                time.sleep(5)
+                page.mouse.click(640, 360) # Clique no centro (Play)
+                time.sleep(2)
+                page.mouse.click(640, 360) # Segundo clique caso o primeiro abra um pop-up
+                
+                # Espera o link aparecer
+                for _ in range(10):
+                    if links_encontrados: break
                     time.sleep(1)
                 
-                if links_m3u8:
-                    # Seleciona o link que tem maior probabilidade de ser o Master (geralmente o mais curto)
-                    master_link = min(links_m3u8, key=len)
-                    resultados.append({"nome": nome, "link": master_link})
+                if links_encontrados:
+                    # Seleciona o link mais provável de ser o MASTER (geralmente não contém 'index')
+                    master = [l for l in links_encontrados if "index" not in l.lower()]
+                    link_final = master[0] if master else links_encontrados[0]
+                    
+                    resultados.append({"nome": nome, "link": link_final})
                     print("✅")
                 else:
-                    print("❌")
+                    print("❌ (Sem links)")
                     
             except Exception:
-                print("❌")
+                print("❌ (Erro)")
             finally:
                 page.close()
                 
@@ -101,7 +109,7 @@ if __name__ == "__main__":
             f.write("#EXTM3U\n")
             for canal in lista_final:
                 f.write(f"#EXTINF:-1, {canal['nome']}\n")
-                # Inclui o Referer para que o player de IPTV consiga abrir o vídeo
+                # Referer Ajustado: usamos o domínio base do embed para passar pelo bloqueio
                 f.write(f"{canal['link']}|Referer=https://embedtvonline.com/&User-Agent=Mozilla/5.0\n")
         enviar_para_github()
     else:
