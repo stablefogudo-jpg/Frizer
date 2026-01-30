@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="PRIME VIDEO 1 HD" tvg-logo="https://images2.imgbox.com/97/a2/tRBn4wF2_o.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 1 HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/83809.m3u8
+#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 2 HD" tvg-logo="https://images2.imgbox.com/97/a2/tRBn4wF2_o.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 2 HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/83810.m3u8
+#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 3 HD" tvg-logo="https://images2.imgbox.com/97/a2/tRBn4wF2_o.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 3 HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/83811.m3u8
+#EXTINF:-1 tvg-id="Primevideo.br" tvg-name="PRIME VIDEO 4 HD" tvg-logo="https://images2.imgbox.com/97/a2/tRBn4wF2_o.png" group-title="CANAIS | ESPORTES PPV",PRIME VIDEO 4 HD
+http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/83812.m3u8
 #EXTINF:-1 tvg-id="Globo SP FHD" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
 http://espetinhos.cdnjsplaytpp.online:80/live/awz8gmbn/z0j3bp58/715.m3u8
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP FHD H265" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
@@ -275,3 +283,4 @@ http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444705.mp4
 http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="9-1-1 S07 E09" tvg-logo="https://image.tmdb.org/t/p/w300/myUxfcqSEcap5XunE3VNqgIvCHl.jpg" group-title="SERIES | DISNEY PLUS",9-1-1 S07 E09
 http://espetinhos.cdnjsplaytpp.online:80/series/awz8gmbn/z0j3bp58/444707.mp4
+
