@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD
 http://bravercdn.online:80/637705028/273522485/17574.ts
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="Canais | Filmes e Séries",A&E FHD [H265]
@@ -141,4 +140,5 @@ http://bravercdn.online:80/637705028/273522485/17647.ts
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="Canais | Documentarios",Discovery Home & Health SD
 http://bravercdn.online:80/637705028/273522485/17649.ts
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://i.ibb.co/y0W06Tf/discoverykids.png" group-title="Canais | Infantil",Discovery Kids FHD
+
 http://bravercdn.online:80/637705028/273522485/17657.ts
