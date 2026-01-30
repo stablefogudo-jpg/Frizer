@@ -13,16 +13,34 @@ NOME_ARQUIVO = "bielas.css"
 def enviar_para_github():
     try:
         print(f"\n📤 Sincronizando {NOME_ARQUIVO} com o GitHub...")
+        # Resolve estados de erro do Git (rebases ou merges travados)
         subprocess.run(["git", "rebase", "--abort"], capture_output=True)
+        subprocess.run(["git", "merge", "--abort"], capture_output=True)
+        
+        # Prepara os arquivos
         subprocess.run(["git", "add", "."], check=True)
+        
+        # Verifica se há algo para commitar
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
         if status:
-            subprocess.run(["git", "commit", "-m", "System update: Master Link Fixed"], check=True)
-            subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
-            subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("✅ SUCESSO! Repositório atualizado.")
+            print("✨ Mudanças detectadas. Realizando commit...")
+            subprocess.run(["git", "commit", "-m", f"Update automático: {time.strftime('%H:%M:%S')}"], check=True)
+            
+            print("🔄 Sincronizando com o servidor (Pull)...")
+            subprocess.run(["git", "pull", "origin", "main", "--no-rebase"], capture_output=True)
+
+            print("🚀 Enviando para o repositório remoto (Push)...")
+            push_result = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
+            
+            if push_result.returncode == 0:
+                print("✅ SUCESSO! O GitHub foi atualizado.")
+            else:
+                print(f"⚠️ Erro no Push: {push_result.stderr}")
+        else:
+            print("ℹ️ Nenhuma mudança detectada pelo Git.")
+            
     except Exception as e:
-        print(f"❌ Erro no GitHub: {e}")
+        print(f"❌ Erro crítico no processo Git: {e}")
 
 # --- FUNÇÃO DE CAPTURA ---
 def extrair_todos_canais():
@@ -37,20 +55,18 @@ def extrair_todos_canais():
             print(f"🚀 Verificando: {nome}...", end=" ", flush=True)
             page = context.new_page()
             
-            # Fecha pop-ups automáticos
+            # Fecha pop-ups de anúncios automaticamente
             page.on("popup", lambda p: p.close())
             
-            # USO DIRETO DO STEALTH (Evita o erro de ImportError)
-            try:
+            # Aplica camuflagem anti-bot
+            if hasattr(playwright_stealth, 'stealth_sync'):
                 playwright_stealth.stealth_sync(page)
-            except Exception:
-                pass # Se falhar, continua sem stealth para não travar o código
             
             link_master = {"url": None}
 
             def interceptar(request):
                 u = request.url.lower()
-                # Filtro para ignorar a lista infinita da sua imagem (mono, ts, chunk)
+                # Filtra apenas o Master Playlist, ignorando os fragmentos infinitos (mono/ts)
                 if ".m3u8" in u and not any(x in u for x in ["mono", "tracks", "ts.m3u8", "chunk", "v1", "v2"]):
                     if not link_master["url"]:
                         link_master["url"] = request.url
@@ -61,10 +77,10 @@ def extrair_todos_canais():
                 page.goto(url, wait_until="domcontentloaded", timeout=60000)
                 time.sleep(5)
                 
-                # Clique para disparar o player
+                # Clique simulado no player para gerar o tráfego de vídeo
                 page.mouse.click(640, 360) 
                 
-                # Espera o Master Playlist aparecer (ignora os repetidos)
+                # Aguarda a captura do link Master
                 for _ in range(12):
                     if link_master["url"]: break
                     time.sleep(1)
@@ -73,27 +89,38 @@ def extrair_todos_canais():
                     resultados.append({"nome": nome, "link": link_master["url"]})
                     print("✅")
                 else:
-                    print("❌ (Master não capturado)")
+                    print("❌")
                     
             except Exception:
-                print("❌ (Erro na página)")
+                print("❌")
             finally:
                 page.close()
                 
         browser.close()
     return resultados
 
+# --- EXECUÇÃO ---
 if __name__ == "__main__":
-    print("🤖 Iniciando o extrator...")
-    lista_final = extrair_todos_canais()
+    start_time = time.time()
+    agora = time.strftime("%d/%m/%Y %H:%M:%S")
     
-    if lista_final:
+    print(f"🤖 Iniciando extrator às {agora}...")
+    
+    lista_canais = extrair_todos_canais()
+    
+    if lista_canais:
+        print(f"📝 Gravando {NOME_ARQUIVO}...")
         with open(NOME_ARQUIVO, "w", encoding="utf-8") as f:
+            # O Timestamp abaixo garante que o arquivo mude sempre, forçando o Git a atualizar
+            f.write(f"# ULTIMA ATUALIZACAO: {agora}\n")
             f.write("#EXTM3U\n")
-            for canal in lista_final:
+            for canal in lista_canais:
                 f.write(f"#EXTINF:-1, {canal['nome']}\n")
-                # Referer essencial para o link não dar erro 403
+                # Referer e User-Agent são fundamentais para rodar no VLC/IPTV
                 f.write(f"{canal['link']}|Referer=https://embedtvonline.com/&User-Agent=Mozilla/5.0\n")
+        
         enviar_para_github()
     else:
-        print("\n⚠️ Falha: Nenhum link mestre foi filtrado.")
+        print("\n⚠️ Nenhum link capturado. O GitHub não será atualizado.")
+        
+    print(f"\n⏱️ Processo finalizado em {int(time.time() - start_time)}s.")
