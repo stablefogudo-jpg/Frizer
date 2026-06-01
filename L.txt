@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV PLANICIE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="FAVORITOS",GLOBO INTERTV PLANICIE HD
-http://ivageja84.online/live/8193237876/1850144201/a970d35e-7630-4124-857c-ab8a9a893b34.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV PLANICIE SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="FAVORITOS",GLOBO INTERTV PLANICIE SD
-http://ivageja84.online/live/8193237876/1850144201/37f275a2-9fbf-4283-b5b4-b20b54d3d247.m3u
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD (BR2)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="FAVORITOS",GLOBO RJ FHD (BR2)
 http://ivageja84.online/live/8193237876/1850144201/529e584d-6d67-414b-8deb-744d067d60fd.m3u
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="FAVORITOS",Globo RJ FHD
@@ -21,14 +17,6 @@ http://ivageja84.online/live/8193237876/1850144201/b95a6e1c-20a5-447e-aa9e-c2aa9
 http://ivageja84.online/live/8193237876/1850144201/f17c620b-dfd6-4851-a54f-ccbdb877f6d2.m3u
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="FAVORITOS",Cartoon Network SD
 http://ivageja84.online/live/8193237876/1850144201/48544e79-96ec-4be3-b441-bf1379283f7a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63886005871.png" group-title="FAVORITOS",US: Nickelodeon EAST HD
-http://ivageja84.online/live/8193237876/1850144201/0a30fabb-3b9f-47d2-b702-0d8287ef91c6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA FHD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="FAVORITOS",TV CULTURA FHD
-http://ivageja84.online/live/8193237876/1850144201/3d4fff27-e480-4151-8313-8070db65561a.m3u
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="FAVORITOS",TV CULTURA SD
-http://ivageja84.online/live/8193237876/1850144201/628d055b-768a-4588-8344-e41e4cc5577f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="https://imgur.com/V4kQmJ0.jpeg" group-title="FAVORITOS",TV Cultura HD
-http://ivageja84.online/live/8193237876/1850144201/ddb50aed-5a81-4c40-8798-82943b5cc28f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrqgFMNndCo3e_wxXFqINrI6oarXd3QWcNLrooE5cictkJDe2km-MIJRrcE-ELhUER7A&usqp=CAU" group-title="FAVORITOS",DISCOVERY H&H HD
 http://ivageja84.online/live/8193237876/1850144201/9fff6d7b-b552-4c3f-a58a-85717c034578.m3u
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrqgFMNndCo3e_wxXFqINrI6oarXd3QWcNLrooE5cictkJDe2km-MIJRrcE-ELhUER7A&usqp=CAU" group-title="FAVORITOS",DISCOVERY H&H SD
@@ -37,32 +25,18 @@ http://ivageja84.online/live/8193237876/1850144201/4679fb74-7993-4c0c-814e-138e1
 http://ivageja84.online/live/8193237876/1850144201/71ab92a0-f20e-4bac-a7cb-552d8138d652.m3u
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="FAVORITOS",Discovery Channel SD
 http://ivageja84.online/live/8193237876/1850144201/4b716066-1095-4998-925b-ea49f5eaaa6b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57149216731.png" group-title="FAVORITOS",US: Discovery Channel EAST HD
-http://ivageja84.online/live/8193237876/1850144201/dfadac3d-9bb1-4588-9f88-26bd905c6134.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Family HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27790685431.png" group-title="FAVORITOS",US: Discovery Family HD
-http://ivageja84.online/live/8193237876/1850144201/965e8082-c478-4512-98d2-4777ddcec588.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery History HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25584854811.png" group-title="FAVORITOS",US: Discovery History HD
-http://ivageja84.online/live/8193237876/1850144201/8a07988b-b603-4b6a-84fe-fac0289fe4d9.m3u
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="FAVORITOS",Discovery Home & Health FHD
 http://ivageja84.online/live/8193237876/1850144201/853e5c87-7250-4428-bed8-42a57b567fcc.m3u
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="FAVORITOS",Discovery Home & Health SD
 http://ivageja84.online/live/8193237876/1850144201/450b4502-67a9-4d49-88af-b4829c64065f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery KIDS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71401348461.png" group-title="FAVORITOS",LA: Discovery KIDS HD
-http://ivageja84.online/live/8193237876/1850144201/24767686-63e2-43e5-8b3c-72591f7b6a8c.m3u
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://i.ibb.co/y0W06Tf/discoverykids.png" group-title="FAVORITOS",Discovery Kids FHD
 http://ivageja84.online/live/8193237876/1850144201/ce9b2a98-391a-4140-8128-18acfd80f3cb.m3u
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://i.ibb.co/y0W06Tf/discoverykids.png" group-title="FAVORITOS",Discovery Kids SD
 http://ivageja84.online/live/8193237876/1850144201/b293feda-41a6-45c2-9b0e-451e783d65b3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery LIFE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21687075271.png" group-title="FAVORITOS",US: Discovery LIFE HD
-http://ivageja84.online/live/8193237876/1850144201/aec10291-5f13-4674-b0f9-032cd5253a9a.m3u
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="FAVORITOS",Discovery Science FHD
 http://ivageja84.online/live/8193237876/1850144201/609a2170-98b2-4799-89de-9102ae84452b.m3u
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="FAVORITOS",Discovery Science SD
 http://ivageja84.online/live/8193237876/1850144201/00853ed9-81db-4306-9a10-763327ae1c3b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Science. HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/77386231671.png" group-title="FAVORITOS",LA: Discovery Science. HD
-http://ivageja84.online/live/8193237876/1850144201/473e1c87-14db-4f5e-99d3-4df1ab53472c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery TLC Pacific HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35866175551.png" group-title="FAVORITOS",US: Discovery TLC Pacific HD
-http://ivageja84.online/live/8193237876/1850144201/0dda6120-da37-479f-95a4-5d859c5044df.m3u
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="FAVORITOS",Discovery Theater FHD
 http://ivageja84.online/live/8193237876/1850144201/19d0233c-a0d0-4282-95a6-deff4ecfbdf9.m3u
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="FAVORITOS",Discovery Theater SD
@@ -71,14 +45,10 @@ http://ivageja84.online/live/8193237876/1850144201/c265f3e2-369f-46ae-b53f-bc508
 http://ivageja84.online/live/8193237876/1850144201/33631242-3b0d-45d2-a485-8da55c7cb681.m3u
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="FAVORITOS",Discovery Turbo SD
 http://ivageja84.online/live/8193237876/1850144201/3f2d5782-2a3f-4b9b-9959-e440e94b5923.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Velocity HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39153295441.png" group-title="FAVORITOS",US: Discovery Velocity HD
-http://ivageja84.online/live/8193237876/1850144201/434cc77b-71c0-418b-abba-54a8f40a0ff4.m3u
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="FAVORITOS",Discovery World FHD
 http://ivageja84.online/live/8193237876/1850144201/d029ad4c-7610-4e99-86e0-4930bb3713a7.m3u
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="FAVORITOS",Discovery World SD
 http://ivageja84.online/live/8193237876/1850144201/56af9985-28b2-49f3-b70f-84ba1bd8cfd2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/70483346571.png" group-title="FAVORITOS",US: Investigation Discovery EAST HD
-http://ivageja84.online/live/8193237876/1850144201/11f6db6f-3a59-4243-876f-fd3634e77885.m3u
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery FHD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="FAVORITOS",Investigação Discovery FHD
 http://ivageja84.online/live/8193237876/1850144201/7b595652-c82a-423d-afac-bc026db3ccc9.m3u
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery SD" tvg-logo="https://imgur.com/0mLqpfk.jpeg" group-title="FAVORITOS",Investigação Discovery SD
@@ -87,8 +57,6 @@ http://ivageja84.online/live/8193237876/1850144201/e64a59c8-6b6d-4efa-b4b0-50734
 http://ivageja84.online/live/8193237876/1850144201/6abdb4af-a7ac-4cf1-bf13-c08c3bd55844.m3u
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="History SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="FAVORITOS",History SD
 http://ivageja84.online/live/8193237876/1850144201/0b4dcf65-cdd9-47b2-ab46-42f1c02ce546.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: History Channel FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48748223511.png" group-title="FAVORITOS",US: History Channel FHD
-http://ivageja84.online/live/8193237876/1850144201/be86a82d-a8a0-40ec-9e4b-af38a1c94668.m3u
 #EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="FAVORITOS",SporTV 2 FHD [H265]
 http://ivageja84.online/live/8193237876/1850144201/b8164f24-ca1f-45db-a3bd-f9a3ba996c44.m3u
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="FAVORITOS",SporTV 2 SD
@@ -133,8 +101,6 @@ http://ivageja84.online/live/8193237876/1850144201/28152fe6-68df-4a50-89ef-2824c
 http://ivageja84.online/live/8193237876/1850144201/2f771a35-ec05-49c1-ae68-b83dbdc9a85d.m3u
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="FAVORITOS",ESPN SD
 http://ivageja84.online/live/8193237876/1850144201/b7095e62-ad13-4d8c-8563-557d83db7751.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98242502121.png" group-title="FAVORITOS",MX: ESPN 1 HD
-http://ivageja84.online/live/8193237876/1850144201/6775e036-f39e-4dce-bed6-5ea21dd208c8.m3u
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="FAVORITOS",ESPN 2 HD
 http://ivageja84.online/live/8193237876/1850144201/cf303ed2-1030-45bc-926a-db4daf8bb8da.m3u
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="FAVORITOS",ESPN 2 SD
@@ -2057,8 +2023,6 @@ http://ivageja84.online/live/8193237876/1850144201/85064f4c-e207-4006-a3d7-f568a
 http://ivageja84.online/live/8193237876/1850144201/f0cc0429-5065-4287-acd4-7ba99fca7f34.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas HD" tvg-logo="http://yan.boatv.at/imgs/globoplay-channel-min.png" group-title="ABERTOS - OUTROS",Globoplay Novelas HD
 http://ivageja84.online/live/8193237876/1850144201/99cb097b-f82f-432c-bce0-c54d1c16039b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Bandamax HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90085534801.png" group-title="ABERTOS - OUTROS",MX: Bandamax HD
-http://ivageja84.online/live/8193237876/1850144201/3341d34d-a021-4d7a-a7de-603b1caa691a.m3u
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="FAMÍLIA HBO",HBO 2 FHD
 http://ivageja84.online/live/8193237876/1850144201/f5bcd9b7-4805-4a9a-a5ba-48a4c188afb0.m3u
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD [H265]" tvg-logo="https://imgur.com/LjUUb9o.jpeg" group-title="FAMÍLIA HBO",HBO 2 FHD [H265]
@@ -2143,30 +2107,6 @@ http://ivageja84.online/live/8193237876/1850144201/f33a0920-fc15-47aa-bd48-f39f3
 http://ivageja84.online/live/8193237876/1850144201/78064239-765a-4586-b772-833e0b01a3f6.m3u
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="https://lh3.googleusercontent.com/-PFj7H96l-A8/YG2ofgBC2RI/AAAAAAAAKLc/jMOWiydYN-YvQA5x_5QI_RgIi_jcn_U6gCLcBGAsYHQ/HBO%2BXTREME%2B4K.png" group-title="FAMÍLIA HBO",HBO XTREME 4K
 http://ivageja84.online/live/8193237876/1850144201/c345ec5d-9496-412d-a3cd-70b9b81866b6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65525618451.png" group-title="FAMÍLIA HBO",US: HBO HD
-http://ivageja84.online/live/8193237876/1850144201/d59b5060-c203-4020-95fe-a664300d9c53.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92602563231.png" group-title="FAMÍLIA HBO",US: HBO 2 HD
-http://ivageja84.online/live/8193237876/1850144201/23494b93-b1e0-45e6-876e-cb8d0c9b6331.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38201134221.png" group-title="FAMÍLIA HBO",US: HBO EAST HD
-http://ivageja84.online/live/8193237876/1850144201/04ddc603-6ef1-44d1-ab4d-e981dc490f6c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93968977161.png" group-title="FAMÍLIA HBO",US: HBO Family HD
-http://ivageja84.online/live/8193237876/1850144201/b10060a2-6c47-4b14-a30b-407bbd99ead3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11401476551.png" group-title="FAMÍLIA HBO",US: HBO WEST HD
-http://ivageja84.online/live/8193237876/1850144201/a09e76fc-c202-4541-a872-4e3e29054b8f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/10339329691.png" group-title="FAMÍLIA HBO",US: HBO MAX Movies HD
-http://ivageja84.online/live/8193237876/1850144201/ed56f481-5f30-4776-ae23-1e28415f73d6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51526486691.png" group-title="FAMÍLIA HBO",US: HBO Signature HD
-http://ivageja84.online/live/8193237876/1850144201/ddaa3236-96fd-43da-aab6-e44ffa6e9c97.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37763670961.png" group-title="FAMÍLIA HBO",US: HBO ZONE HD
-http://ivageja84.online/live/8193237876/1850144201/f11aabda-47f8-4f68-b38d-63ac1dbc23d3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90194947401.png" group-title="FAMÍLIA HBO",LA: HBO HD
-http://ivageja84.online/live/8193237876/1850144201/5d1a732d-ac9d-4d29-af1d-693bb7ddb6b8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29339446741.png" group-title="FAMÍLIA HBO",LA: HBO 2 HD
-http://ivageja84.online/live/8193237876/1850144201/400de862-692a-428d-b5bd-00c3f402db21.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Family HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53866879991.png" group-title="FAMÍLIA HBO",LA: HBO Family HD
-http://ivageja84.online/live/8193237876/1850144201/1d1db3af-3990-4a0d-b107-5fd348f4ff18.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68269764341.png" group-title="FAMÍLIA HBO",LA: HBO PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/db91529a-ff30-4536-8f85-79dbf8fba9aa.m3u
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://i.ibb.co/dBSRtfx/tcaction.png" group-title="FAMÍLIA TELECINE",Telecine Action FHD
 http://ivageja84.online/live/8193237876/1850144201/9928a99d-e155-4638-8288-e66677eddbbb.m3u
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD H265" tvg-logo="https://i.ibb.co/dBSRtfx/tcaction.png" group-title="FAMÍLIA TELECINE",Telecine Action FHD H265
@@ -2279,12 +2219,6 @@ http://ivageja84.online/live/8193237876/1850144201/9af9d45e-cf6c-4754-8058-28cfe
 http://ivageja84.online/live/8193237876/1850144201/3289d2d7-37be-4470-8179-047bf3412b20.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 4 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ESPORTES",CONMEBOL PARAMOUNT+ 4 FHD
 http://ivageja84.online/live/8193237876/1850144201/6c279485-e73d-4c0f-89de-e5c053bca466.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19948983151.png" group-title="ESPORTES",US: NFL Network HD
-http://ivageja84.online/live/8193237876/1850144201/43ea0422-593b-4ee5-85ab-b94f5d0f42f4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL NOW HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68273553631.png" group-title="ESPORTES",US: NFL NOW HD
-http://ivageja84.online/live/8193237876/1850144201/ca03a9f1-f1f2-4456-96a3-4d54d7c397f4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/78675618051.png" group-title="ESPORTES",US: NFL Network 1 HD
-http://ivageja84.online/live/8193237876/1850144201/82ec2caf-fc7e-40fb-a97c-5da22a9d55fc.m3u
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="ESPORTES",UFC FIGHT PASS
 http://ivageja84.online/live/8193237876/1850144201/72285b8a-13ca-45d7-b1cd-43aaffae904a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="ESPORTES",UFC FIGHT PASS 2
@@ -2297,36 +2231,10 @@ http://ivageja84.online/live/8193237876/1850144201/404e2975-c673-44b6-9c36-0bb7c
 http://ivageja84.online/live/8193237876/1850144201/1a33ac0d-6da2-49b3-8ccb-63bd394d6f7a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS 09 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-1.png" group-title="ESPORTES",NBA LEAGUE PASS 09 HD
 http://ivageja84.online/live/8193237876/1850144201/e6863f48-0dbd-4777-a339-a19156f603af.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports OHIO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66740408761.png" group-title="ESPORTES",US: FOX Sports OHIO HD
-http://ivageja84.online/live/8193237876/1850144201/56b80869-b7c9-4b96-8145-1e2b77e750d1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Florida HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66038224381.png" group-title="ESPORTES",US: FOX Sports Florida HD
-http://ivageja84.online/live/8193237876/1850144201/0a51c959-e6f1-4bca-b445-842ad84329e5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Arizona HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97481325531.png" group-title="ESPORTES",US: FOX Sports Arizona HD
-http://ivageja84.online/live/8193237876/1850144201/44452b2a-bd64-44ef-a27a-1adb7e5eddd6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93405214591.png" group-title="ESPORTES",US: FOX Sports Detroit HD
-http://ivageja84.online/live/8193237876/1850144201/a6a31035-4b7b-4c13-911c-084327e88b87.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Midwest HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49418050521.png" group-title="ESPORTES",US: FOX Sports Midwest HD
-http://ivageja84.online/live/8193237876/1850144201/854f8d55-b769-4df0-9ba5-516c186d98e5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Oklahoma HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37680862761.png" group-title="ESPORTES",US: FOX Sports Oklahoma HD
-http://ivageja84.online/live/8193237876/1850144201/52f8b236-79e6-48e0-8669-dac45061756b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports South Carolina HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23717493251.png" group-title="ESPORTES",US: FOX Sports South Carolina HD
-http://ivageja84.online/live/8193237876/1850144201/02655e7e-7c88-44da-813d-8e7a0d09314b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Southwest HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91132652391.png" group-title="ESPORTES",US: FOX Sports Southwest HD
-http://ivageja84.online/live/8193237876/1850144201/3af49494-08d7-4281-843b-6832e7b2bba5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Tennessee HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68404150891.png" group-title="ESPORTES",US: FOX Sports Tennessee HD
-http://ivageja84.online/live/8193237876/1850144201/dbbc620a-c598-43d4-9b0a-7cd5626e4c79.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Wisconsin HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16841182081.png" group-title="ESPORTES",US: FOX Sports Wisconsin HD
-http://ivageja84.online/live/8193237876/1850144201/cb9acb40-20e9-4853-9893-c254ad7470e8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="US- FOX Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91748566111.png" group-title="ESPORTES",US- FOX Sports Detroit HD
 http://ivageja84.online/live/8193237876/1850144201/6398a962-7cb6-48eb-a459-1d3bafa3cba0.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56816858311.png" group-title="ESPORTES",USA | FOX Sports 1 HD
 http://ivageja84.online/live/8193237876/1850144201/28c385f4-f82b-48f9-8633-9e6e1bc81ff4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96259819121.png" group-title="ESPORTES",MX: FOX Sports 3 HD
-http://ivageja84.online/live/8193237876/1850144201/56b86922-d8d0-43ec-a0b1-1a1125d19dfd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CL: FOX Sports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62426467171.png" group-title="ESPORTES",CL: FOX Sports 1 HD
-http://ivageja84.online/live/8193237876/1850144201/c53c86fe-c7a6-42c2-8a2b-aae998bec3f9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: FOX Sports 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79102027351.png" group-title="ESPORTES",CO: FOX Sports 3 FHD
-http://ivageja84.online/live/8193237876/1850144201/fd362afd-3a41-402f-a673-67d6ae7c6a5e.m3u
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="NOTÍCIAS",CNN Brasil FHD
 http://ivageja84.online/live/8193237876/1850144201/3764b822-88b3-45bf-8d9f-1b6cdcd113bc.m3u
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="NOTÍCIAS",CNN Brasil FHD [H265]
@@ -2349,56 +2257,14 @@ http://ivageja84.online/live/8193237876/1850144201/e8f82703-5129-4f65-8a93-0486b
 http://ivageja84.online/live/8193237876/1850144201/576864f9-b99d-4cb5-a0d1-3071710ad0ec.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS NEWS NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41061242031.png" group-title="NOTÍCIAS",USA: CBS NEWS NEW YORK HD
 http://ivageja84.online/live/8193237876/1850144201/7e651e45-7bba-40ce-9f82-d8cc7b84b2b9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Boston NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89776563451.png" group-title="NOTÍCIAS",US: NBC Boston NEWS HD
-http://ivageja84.online/live/8193237876/1850144201/867daf58-1cce-4558-abaa-e1e15b4f11a0.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 12 - Bronx HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89291914661.png" group-title="NOTÍCIAS",NEWS 12 - Bronx HD
 http://ivageja84.online/live/8193237876/1850144201/4262afaf-d10e-4682-af09-ee348a3d7d4f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 12 NEW Jersey HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99802954381.png" group-title="NOTÍCIAS",NEWS 12 NEW Jersey HD
 http://ivageja84.online/live/8193237876/1850144201/b528ec22-1d28-45c8-adc3-6339b22880c4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC World" tvg-logo="" group-title="NOTÍCIAS",US: CNBC World
-http://ivageja84.online/live/8193237876/1850144201/6f601e6f-155f-4674-8a28-faaebe689c67.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NEWS 12 LONG Island HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/85add0ac7027265322fb1672f394c238.png" group-title="NOTÍCIAS",US: NEWS 12 LONG Island HD
-http://ivageja84.online/live/8193237876/1850144201/99c922ac-f3e3-46f9-b066-fff23e363e1f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐ ⭐ NEWS ⭐ ⭐⭐" tvg-logo="" group-title="NOTÍCIAS",⭐⭐ ⭐ NEWS ⭐ ⭐⭐
 http://ivageja84.online/live/8193237876/1850144201/58de16ef-f527-4c42-b4cc-dc80f57e73d5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83207683191.png" group-title="NOTÍCIAS",US: ABC NEWS HD
-http://ivageja84.online/live/8193237876/1850144201/3d486f6f-9e07-4a4c-9bb4-614804925a18.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82002684041.png" group-title="NOTÍCIAS",US: ABC NEWS HD
-http://ivageja84.online/live/8193237876/1850144201/d0c33dc0-408f-4989-88e8-8dec77ccac11.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC World NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34947262281.png" group-title="NOTÍCIAS",US: BBC World NEWS HD
-http://ivageja84.online/live/8193237876/1850144201/4e0a33bc-079b-47f4-b817-4ff3d187f581.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Bloomberg Europe HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81006048931.png" group-title="NOTÍCIAS",US: Bloomberg Europe HD
-http://ivageja84.online/live/8193237876/1850144201/604faaa4-3fed-451e-86ef-3398d127a2dc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20158395251.png" group-title="NOTÍCIAS",US: CNN FHD
-http://ivageja84.online/live/8193237876/1850144201/64dd4d4c-2795-4bd6-a07a-26cee7559ab2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cheddar NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50499740461.png" group-title="NOTÍCIAS",US: Cheddar NEWS HD
-http://ivageja84.online/live/8193237876/1850144201/24269a94-ee56-4c95-a273-b21c2bcf8e22.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28675971911.png" group-title="NOTÍCIAS",US: CNBC HD
-http://ivageja84.online/live/8193237876/1850144201/02eff391-8625-444f-b8ac-264ca77f42cf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC TV EN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44287732971.png" group-title="NOTÍCIAS",US: CNBC TV EN HD
-http://ivageja84.online/live/8193237876/1850144201/b4e44c13-ccdd-4a7b-b127-890ef5b50833.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNN SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62646198461.png" group-title="NOTÍCIAS",US: CNN SD
-http://ivageja84.online/live/8193237876/1850144201/5a743340-231e-4115-9514-4ac6dafdfad4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CNN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90323613801.png" group-title="NOTÍCIAS",US: CNN HD
-http://ivageja84.online/live/8193237876/1850144201/f783b0ce-a321-47a8-8a57-5f1516c1795b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CTV NEWS Newtork HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73919437621.png" group-title="NOTÍCIAS",US: CTV NEWS Newtork HD
-http://ivageja84.online/live/8193237876/1850144201/d236134f-ec24-472c-9e72-147380afc456.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16835001701.png" group-title="NOTÍCIAS",US: FOX NEWS Channel HD
-http://ivageja84.online/live/8193237876/1850144201/eb0be63b-6e20-4991-b93a-6817795c9e21.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Newsmax HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57172272241.png" group-title="NOTÍCIAS",US: Newsmax HD
-http://ivageja84.online/live/8193237876/1850144201/d474acea-2602-4743-895d-60170d398d9f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NEWS 12 Bronx HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64361222211.png" group-title="NOTÍCIAS",US: NEWS 12 Bronx HD
-http://ivageja84.online/live/8193237876/1850144201/d971c0a0-9f19-47ee-b0d5-c2efbf255ba0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NEWS NET HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74976683151.png" group-title="NOTÍCIAS",US: NEWS NET HD
-http://ivageja84.online/live/8193237876/1850144201/c61a4ac9-d279-4af2-9ce6-42c9f5188ea5.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: NBC NEWS NOW HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21192074541.png" group-title="NOTÍCIAS",USA: NBC NEWS NOW HD
 http://ivageja84.online/live/8193237876/1850144201/99cda5fb-f964-4674-860c-a944096f918d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Newsmax FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82357038761.png" group-title="NOTÍCIAS",US: Newsmax FHD
-http://ivageja84.online/live/8193237876/1850144201/fa778eb8-74e1-4f08-8998-abe6baa1f6bb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ONE America NEWS Network  HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96158372361.png" group-title="NOTÍCIAS",US: ONE America NEWS Network  HD
-http://ivageja84.online/live/8193237876/1850144201/3584050b-6b56-4cf3-865a-6600bf91cb4e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: CNN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99025058861.png" group-title="NOTÍCIAS",LA: CNN HD
-http://ivageja84.online/live/8193237876/1850144201/a72637fc-eb6d-4411-a121-212bb1e5b210.m3u
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="FILMES E SÉRIES",A&E FHD
 http://ivageja84.online/live/8193237876/1850144201/bbc97c6a-de5d-40c0-8bc5-b6b61b73b033.m3u
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD [H265]" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="FILMES E SÉRIES",A&E FHD [H265]
@@ -2631,10 +2497,6 @@ http://ivageja84.online/live/8193237876/1850144201/98089115-7d53-4710-aa3a-41f86
 http://ivageja84.online/live/8193237876/1850144201/b7d5d169-3e20-42e0-861d-73bf7f1e7af6.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86915269271.png" group-title="FILMES E SÉRIES",USA | ABC 7 NEW YORK HD
 http://ivageja84.online/live/8193237876/1850144201/a756f9ca-777c-4e5a-9995-3e03663bbb39.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Bally Sports Kansas CITY HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66247849561.png" group-title="FILMES E SÉRIES",SP: USA: Bally Sports Kansas CITY HD
-http://ivageja84.online/live/8193237876/1850144201/66e8d6eb-1133-4f2c-bebc-64165cb11e5c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Bally Sports NEW Orleans PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17459840071.png" group-title="FILMES E SÉRIES",SP: USA: Bally Sports NEW Orleans PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/b1d6a06e-f05a-4722-8e7f-b300a79f3f48.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS Dallas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93068904201.png" group-title="FILMES E SÉRIES",USA: CBS Dallas HD
 http://ivageja84.online/live/8193237876/1850144201/623e098b-9ef3-4d0c-a8ab-a946583bf208.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: CBS SAN Francisco HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91496559961.png" group-title="FILMES E SÉRIES",USA: CBS SAN Francisco HD
@@ -2665,18 +2527,10 @@ http://ivageja84.online/live/8193237876/1850144201/a9037879-dd6c-4c8b-b106-024f3
 http://ivageja84.online/live/8193237876/1850144201/3f2fb570-b18e-4ecd-aa30-2edb061365c7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="||usa|| NBC GOLF HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42086235491.png" group-title="FILMES E SÉRIES",||usa|| NBC GOLF HD
 http://ivageja84.online/live/8193237876/1850144201/f7162caf-d4cf-4430-bdf8-0b3d2829c47b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Nbcsn Washington HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42341572711.png" group-title="FILMES E SÉRIES",SP: USA: Nbcsn Washington HD
-http://ivageja84.online/live/8193237876/1850144201/056c6f65-718c-4cef-825c-c18f8b5a3500.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: WPIX 11 NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82369606891.png" group-title="FILMES E SÉRIES",USA: WPIX 11 NEW YORK HD
 http://ivageja84.online/live/8193237876/1850144201/8562525a-d091-4452-949b-8400d9ce19a5.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: CGTN DOC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79830787301.png" group-title="FILMES E SÉRIES",USA: CGTN DOC HD
 http://ivageja84.online/live/8193237876/1850144201/7fc520e5-bf50-488b-ab52-b2ef8df21d18.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: SYFY HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63359490801.png" group-title="FILMES E SÉRIES",US: SYFY HD
-http://ivageja84.online/live/8193237876/1850144201/785cfaf7-9a05-4aa0-b344-a672ca7d91c2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75517492511.png" group-title="FILMES E SÉRIES",US: TNT EAST HD
-http://ivageja84.online/live/8193237876/1850144201/a8edb726-27d3-4de2-923f-aff1e654cac5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35051445561.png" group-title="FILMES E SÉRIES",US: TNT HD
-http://ivageja84.online/live/8193237876/1850144201/412e2ca2-cfe2-4b14-aefe-9bf028a4bf28.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: MC Throwback JAMZ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84627950181.png" group-title="FILMES E SÉRIES",USA: MC Throwback JAMZ HD
 http://ivageja84.online/live/8193237876/1850144201/f20bb11f-a462-4d55-b6ed-847d9aab72ea.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: MTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/72700828131.png" group-title="FILMES E SÉRIES",USA: MTV HD
@@ -2685,40 +2539,10 @@ http://ivageja84.online/live/8193237876/1850144201/e2057307-c311-4573-b232-a780e
 http://ivageja84.online/live/8193237876/1850144201/587e0cff-510e-4b92-a085-b0c374e7eaf2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: Stingray POP Adult HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48209574231.png" group-title="FILMES E SÉRIES",USA: Stingray POP Adult HD
 http://ivageja84.online/live/8193237876/1850144201/e9c7a02f-4dc1-464c-8b44-a1caccacddee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26702277021.png" group-title="FILMES E SÉRIES",US: AMC HD
-http://ivageja84.online/live/8193237876/1850144201/8f436189-063e-49a2-b9cc-504f402b3d82.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: A&E HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98146457641.png" group-title="FILMES E SÉRIES",US: A&E HD
-http://ivageja84.online/live/8193237876/1850144201/8564af32-7c20-432e-9fb0-a9cf36dc8e2f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50967059741.png" group-title="FILMES E SÉRIES",US: AMC HD
-http://ivageja84.online/live/8193237876/1850144201/a2658f3f-eb8c-44d8-95e7-d5996244a296.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|US| Cinemax Actionmax HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49527046471.png" group-title="FILMES E SÉRIES",|US| Cinemax Actionmax HD
 http://ivageja84.online/live/8193237876/1850144201/70063f6f-dba6-45b2-869c-c772e775e6f3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax 5 Starmax HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95899578271.png" group-title="FILMES E SÉRIES",US: Cinemax 5 Starmax HD
-http://ivageja84.online/live/8193237876/1850144201/78caad13-5384-4740-838b-132cda59db37.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Action MAX EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99078408381.png" group-title="FILMES E SÉRIES",US: Cinemax Action MAX EAST HD
-http://ivageja84.online/live/8193237876/1850144201/267e1dbc-a939-4d2c-be0c-4db022bd1fd0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax MORE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19363657931.png" group-title="FILMES E SÉRIES",US: Cinemax MORE HD
-http://ivageja84.online/live/8193237876/1850144201/b68334ae-8e2a-43a6-8191-8dcb4a27306f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Outer MAX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55733431861.png" group-title="FILMES E SÉRIES",US: Cinemax Outer MAX HD
-http://ivageja84.online/live/8193237876/1850144201/c1dafd9d-7406-4ca2-b9f4-ed9d68a8c782.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17240811491.png" group-title="FILMES E SÉRIES",US: Cinemax 5 HD
-http://ivageja84.online/live/8193237876/1850144201/d0b0961d-1189-4bdc-94d0-637dffee53ee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moremax HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62592904481.png" group-title="FILMES E SÉRIES",US: Cinemax Moremax HD
-http://ivageja84.online/live/8193237876/1850144201/2eef482c-0661-4d62-a4b7-5cea3bf44142.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|US| Paramount Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84827957481.png" group-title="FILMES E SÉRIES",|US| Paramount Network HD
 http://ivageja84.online/live/8193237876/1850144201/b08f92a7-e9b8-4901-860b-b33bc367a28e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: SKY Cinema Action HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56809297741.png" group-title="FILMES E SÉRIES",US: SKY Cinema Action HD
-http://ivageja84.online/live/8193237876/1850144201/07f948c6-e66b-41fa-8cd3-bf8e71245137.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema WEST FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64711212091.png" group-title="FILMES E SÉRIES",US: Starz Cinema WEST FHD
-http://ivageja84.online/live/8193237876/1850144201/879794d4-c5d1-443c-8d6e-13028b9da51b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: USA Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61215418291.png" group-title="FILMES E SÉRIES",US: USA Network HD
-http://ivageja84.online/live/8193237876/1850144201/581a104d-ced0-4eec-9c52-f8863ba534c3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: A&E HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38242514111.png" group-title="FILMES E SÉRIES",LA: A&E HD
-http://ivageja84.online/live/8193237876/1850144201/dbf370d6-627a-4ee6-b21b-bb464bf8db8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: AXN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84963730351.png" group-title="FILMES E SÉRIES",LA: AXN HD
-http://ivageja84.online/live/8193237876/1850144201/0565ce70-929e-4d21-bd37-9bd4ea89f23a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema Dinamita HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43758040241.png" group-title="FILMES E SÉRIES",LA: Cinema Dinamita HD
-http://ivageja84.online/live/8193237876/1850144201/043ae2ae-a103-4529-b73b-1e8293bcc143.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZ Cinema HD (J)" tvg-logo="https://img-cdn.curl.pk/channels_icon/70191386961.png" group-title="FILMES E SÉRIES",MX | AZ Cinema HD (J)
 http://ivageja84.online/live/8193237876/1850144201/520ed3ea-ff9e-4088-bf5b-a3dcb23a4432.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="FILMES E SÉRIES",ARG: TNT Sports HD
@@ -2759,36 +2583,6 @@ http://ivageja84.online/live/8193237876/1850144201/e7428f0e-99d8-4908-8841-3d1f4
 http://ivageja84.online/live/8193237876/1850144201/a3e554eb-8a26-404a-ad9f-08c4bd9c6346.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 07" tvg-logo="https://i.imgur.com/vBy1VoW.jpeg" group-title="INFANTIL",DISNEY+ 07
 http://ivageja84.online/live/8193237876/1850144201/8f41c006-d1d1-4354-bada-c1f93551f845.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Boomerang HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85630174901.png" group-title="INFANTIL",US: Boomerang HD
-http://ivageja84.online/live/8193237876/1850144201/f8397157-a246-474c-920d-c01527cadcf8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Disney JR (east) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42364795661.png" group-title="INFANTIL",US: Disney JR (east) HD
-http://ivageja84.online/live/8193237876/1850144201/5be1958a-4f1f-4f7c-845b-7db6c5e40d59.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Disney Junior Pacific HD" tvg-logo="https://img-cdn.curl.pk/chimg/6181491460.png" group-title="INFANTIL",US: Disney Junior Pacific HD
-http://ivageja84.online/live/8193237876/1850144201/80e0d1d0-51bd-44b7-a132-9236ba30f9ec.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79163100761.png" group-title="INFANTIL",US: Disney XD EAST HD
-http://ivageja84.online/live/8193237876/1850144201/29ef55b7-374c-4a28-b464-439e3d92e850.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Disney JR HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62503695821.png" group-title="INFANTIL",US: Disney JR HD
-http://ivageja84.online/live/8193237876/1850144201/e7677b40-3073-4d18-809e-ef325d731f3e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Disney Junior HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22190404421.png" group-title="INFANTIL",US: Disney Junior HD
-http://ivageja84.online/live/8193237876/1850144201/a3fb0334-6640-482b-892e-b6cb714e61cc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NICK JR HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/59936762651.png" group-title="INFANTIL",US: NICK JR HD
-http://ivageja84.online/live/8193237876/1850144201/3d5256a9-1a5c-41a2-b7b2-cab0735cfb4c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Nicktoons HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29835170231.png" group-title="INFANTIL",US: Nicktoons HD
-http://ivageja84.online/live/8193237876/1850144201/c6b82a2e-afaa-4414-abde-a7a0cee3d5d7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TEEN NICK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20273790091.png" group-title="INFANTIL",US: TEEN NICK HD
-http://ivageja84.online/live/8193237876/1850144201/db6c3fa8-5597-4fea-bd80-4cb60243a721.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Teennick HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94898158931.png" group-title="INFANTIL",US: Teennick HD
-http://ivageja84.online/live/8193237876/1850144201/a4ac0c1b-764c-49ff-85d1-7043f7aaaed6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Boomerang HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25031068261.png" group-title="INFANTIL",LA: Boomerang HD
-http://ivageja84.online/live/8193237876/1850144201/ce684b34-6ab3-4831-9875-4fa27b453f0c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Disney JR HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/70148278621.png" group-title="INFANTIL",LA: Disney JR HD
-http://ivageja84.online/live/8193237876/1850144201/861e8a28-3660-484d-8c2e-a7df5aa8820e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: NICK SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34886759311.png" group-title="INFANTIL",MX: NICK SD
-http://ivageja84.online/live/8193237876/1850144201/b0091c42-e647-4020-b3e1-7cd819947a34.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Disney JR HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/59247860021.png" group-title="INFANTIL",MX: Disney JR HD
-http://ivageja84.online/live/8193237876/1850144201/7fd01d91-83be-4e50-baee-e33baf04cfad.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Disney XD HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99701517151.png" group-title="INFANTIL",MX: Disney XD HD
-http://ivageja84.online/live/8193237876/1850144201/3de2bd3b-090f-495d-bc6d-ba174bc39e56.m3u
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
 http://ivageja84.online/live/8193237876/1850144201/43794232-bae6-4feb-a1d0-d29e28250e3e.m3u
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD [H265]
@@ -3345,30 +3139,6 @@ http://ivageja84.online/live/8193237876/1850144201/b05e4678-057c-459b-862e-1af6c
 http://ivageja84.online/live/8193237876/1850144201/e6f2f8e7-53c6-4c78-a3c6-887a7aae7df7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Casa Do Patrão | Suíte do Patrão" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2026/02/Casa-do-Patrao-Disney-Plus.jpg" group-title="OUTROS",Casa Do Patrão | Suíte do Patrão
 http://ivageja84.online/live/8193237876/1850144201/b592a2c0-4d87-4d94-be7f-e1cbdc47bb7b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: CANAL UNO" tvg-logo="https://asiagrandiptv.us/logo/canaluno.png" group-title="OUTROS",EC: CANAL UNO
-http://ivageja84.online/live/8193237876/1850144201/20686856-bb1f-47b7-bc56-20b4452b91f6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: CANELA TV" tvg-logo="https://asiagrandiptv.us/logo/canelatv.png" group-title="OUTROS",EC: CANELA TV
-http://ivageja84.online/live/8193237876/1850144201/163b1316-1dd1-4ac7-b9b2-703b905a709a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: ECUADOR TV" tvg-logo="https://asiagrandiptv.us/logo/ecuadortv.png" group-title="OUTROS",EC: ECUADOR TV
-http://ivageja84.online/live/8193237876/1850144201/745ad060-2300-4284-8c21-aa5cea938078.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: ECUAVISA" tvg-logo="https://asiagrandiptv.us/logo/ecuavisa.png" group-title="OUTROS",EC: ECUAVISA
-http://ivageja84.online/live/8193237876/1850144201/cfe3d82b-c209-4ed8-ac52-b50425171799.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: GAMAVISION" tvg-logo="https://asiagrandiptv.us/logo/gamavision.png" group-title="OUTROS",EC: GAMAVISION
-http://ivageja84.online/live/8193237876/1850144201/82672f35-5880-491e-9cbe-33d13da88232.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: OROMAR TV" tvg-logo="https://asiagrandiptv.us/logo/oromartv.png" group-title="OUTROS",EC: OROMAR TV
-http://ivageja84.online/live/8193237876/1850144201/714f912f-2adc-434c-b048-a3ca21885b43.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: TC TELEVISION" tvg-logo="https://asiagrandiptv.us/logo/tctelevision.png" group-title="OUTROS",EC: TC TELEVISION
-http://ivageja84.online/live/8193237876/1850144201/0acedaa9-7b6e-4957-9e2d-4bc40de757f2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: TELE AMAZONAS" tvg-logo="https://asiagrandiptv.us/logo/teleamazonas.png" group-title="OUTROS",EC: TELE AMAZONAS
-http://ivageja84.online/live/8193237876/1850144201/c7200225-3ef0-4612-b0e7-1fc778b625e7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA TV" tvg-logo="https://asiagrandiptv.us/logo/gamatv.png" group-title="OUTROS",EC: GAMA TV
-http://ivageja84.online/live/8193237876/1850144201/57a6189a-7435-4a46-851e-b6ec837ef27b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: TVC" tvg-logo="https://asiagrandiptv.us/logo/tvc.png" group-title="OUTROS",EC: TVC
-http://ivageja84.online/live/8193237876/1850144201/21f3a06a-2092-4751-aa60-f9de4121e74e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: GOL TV" tvg-logo="https://asiagrandiptv.us/logo/goltv.png" group-title="OUTROS",EC: GOL TV
-http://ivageja84.online/live/8193237876/1850144201/886df687-b25d-4270-8c3b-424c923b8266.m3u
-#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="https://asiagrandiptv.us/logo/rts.png" group-title="OUTROS",EC: RTS
-http://ivageja84.online/live/8193237876/1850144201/c33450df-751a-4214-8de9-04886be1db06.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dismar TV | PY" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg" group-title="OUTROS",Dismar TV | PY
 http://ivageja84.online/live/8193237876/1850144201/3970adf8-59a3-4aa5-b6c6-d447c5b9e28f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Estacion Cristal | PY" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg" group-title="OUTROS",Estacion Cristal | PY
@@ -3389,570 +3159,50 @@ http://ivageja84.online/live/8193237876/1850144201/ab6bd513-97e3-4df0-9adf-77b9a
 http://ivageja84.online/live/8193237876/1850144201/811a899f-d90f-4ded-be7f-1364589d6e5f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Uniradio TV | PY" tvg-logo="https://lh3.googleusercontent.com/-34FgWqzMBDg/YH9cw6_T2TI/AAAAAAABBzs/kBRRqFmgxqoFDZbfXOnL4wj8E58LW9jkQCK8BGAsYHg/s512/2021-04-20.png" group-title="OUTROS",Uniradio TV | PY
 http://ivageja84.online/live/8193237876/1850144201/0ebf4755-8a2c-4197-9e65-e99ffe58eb4e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BALLY SPORTS WISCONSIN" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/42872edfd0b90386a6c3980f118ca196.png" group-title="OUTROS",US: BALLY SPORTS WISCONSIN
-http://ivageja84.online/live/8193237876/1850144201/c5ecf8c7-c281-46be-8578-7f3bb4b15813.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Boston" tvg-logo="" group-title="OUTROS",US: NBC Sports Boston
-http://ivageja84.online/live/8193237876/1850144201/ed5d92ac-bcb6-45f4-9c6d-26f4161be067.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="" group-title="OUTROS",US: NBC Sports California
-http://ivageja84.online/live/8193237876/1850144201/c584116f-adff-4042-a1dc-d1e3f7f85ca7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Northwest HD" tvg-logo="" group-title="OUTROS",US: NBC Sports Northwest HD
-http://ivageja84.online/live/8193237876/1850144201/0e369d2b-97fe-4982-b3b7-b126568773d2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Telemundo Boston HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ff52940ca082a4167417e68b2ef64a4.png" group-title="OUTROS",US: Telemundo Boston HD
-http://ivageja84.online/live/8193237876/1850144201/cdda3bc9-8bd9-4201-a51e-142aa019b702.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Telemundo Orlando, HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/970d1d0f850d27d31cfcf25cb2040646.png" group-title="OUTROS",US: Telemundo Orlando, HD
-http://ivageja84.online/live/8193237876/1850144201/91393181-360d-42b5-8f10-518ec6f2aca0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC (wls) Chicago HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25578693351.png" group-title="OUTROS",US: ABC (wls) Chicago HD
-http://ivageja84.online/live/8193237876/1850144201/aebfd4d2-03e6-4d08-9e25-a7591d0105b1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC 7 (detroit) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18989156681.png" group-title="OUTROS",US: ABC 7 (detroit) HD
-http://ivageja84.online/live/8193237876/1850144201/3b9b8f38-ca10-41e5-82b3-3f8805b4e4ab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC 7 (NEW York) | HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80291058001.png" group-title="OUTROS",US: ABC 7 (NEW York) | HD
-http://ivageja84.online/live/8193237876/1850144201/b4611071-3ee3-49f1-8b60-e6e012cfc325.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Baltimore MD WMAR HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49452212491.png" group-title="OUTROS",US: ABC Baltimore MD WMAR HD
-http://ivageja84.online/live/8193237876/1850144201/8dbe3c32-15b5-4d37-b8e1-4874343527a0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Detroit MI WXYZ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19134461781.png" group-title="OUTROS",US: ABC Detroit MI WXYZ HD
-http://ivageja84.online/live/8193237876/1850144201/24329a11-dee6-4e52-9b2b-241d35ffd79b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Fresno HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63068931241.png" group-title="OUTROS",US: ABC Fresno HD
-http://ivageja84.online/live/8193237876/1850144201/1f9e2bd3-40bf-4625-96c4-de95c1769d3c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC LOS Angeles HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53711918341.png" group-title="OUTROS",US: ABC LOS Angeles HD
-http://ivageja84.online/live/8193237876/1850144201/4af0c99d-0410-46c0-a448-8f58afb5f691.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Miami HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55256840111.png" group-title="OUTROS",US: ABC Miami HD
-http://ivageja84.online/live/8193237876/1850144201/83f220ea-cfa8-4ec8-84fd-ae0a68b232f3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC Philadelphia HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/72903225581.png" group-title="OUTROS",US: ABC Philadelphia HD
-http://ivageja84.online/live/8193237876/1850144201/d2b53a1d-dc1b-445d-a9ff-72abdbf1bbdb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC SAN Francisco HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33686536371.png" group-title="OUTROS",US: ABC SAN Francisco HD
-http://ivageja84.online/live/8193237876/1850144201/5df7f5f1-a354-4c66-9337-5f29dfa71f38.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC ST Louis MO KDNL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21578895301.png" group-title="OUTROS",US: ABC ST Louis MO KDNL HD
-http://ivageja84.online/live/8193237876/1850144201/3fc31062-3431-4574-bf3b-f88b95fd520d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC Columbus, OH WSYX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89527340921.png" group-title="OUTROS",USA: ABC Columbus, OH WSYX HD
 http://ivageja84.online/live/8193237876/1850144201/c7f78e39-0a2d-4edb-8d32-a8ec18c7e760.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Orlando ABC WFTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93993091081.png" group-title="OUTROS",US: Orlando ABC WFTV HD
-http://ivageja84.online/live/8193237876/1850144201/fb9e6936-9509-4e59-a570-4741b3951e1c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Boston ABC WCVB HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62254680631.png" group-title="OUTROS",US: Boston ABC WCVB HD
-http://ivageja84.online/live/8193237876/1850144201/9e6404bf-d1c6-4e4f-b24a-6cfe66b56500.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Atlanta NBC WXIA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30072646191.png" group-title="OUTROS",US: Atlanta NBC WXIA HD
-http://ivageja84.online/live/8193237876/1850144201/3bc7b985-18f4-4235-ba8d-6fc3ed39107b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18108439731.png" group-title="OUTROS",US: Bally Sports Detroit HD
-http://ivageja84.online/live/8193237876/1850144201/f5c9df59-e06d-4def-ad7c-bab308b9866d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS Detroit, MI WWJ  HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18200997331.png" group-title="OUTROS",USA | CBS Detroit, MI WWJ  HD
 http://ivageja84.online/live/8193237876/1850144201/3aed8316-1f73-4ba6-bd50-b75de7994574.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Boston HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79723790011.png" group-title="OUTROS",US: CBS Boston HD
-http://ivageja84.online/live/8193237876/1850144201/3a96299b-99e3-4358-97ee-dc7b6daa0b54.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Chicago HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15401032131.png" group-title="OUTROS",US: CBS Chicago HD
-http://ivageja84.online/live/8193237876/1850144201/960fb3a1-c56b-4e7e-a746-eee72559ff9e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sport HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93417846491.png" group-title="OUTROS",US: CBS Sport HD
-http://ivageja84.online/live/8193237876/1850144201/c1fdad39-8620-4d8e-af56-b364359b3c95.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Milwaukee HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92012285881.png" group-title="OUTROS",US: CBS Milwaukee HD
-http://ivageja84.online/live/8193237876/1850144201/1bb5838a-1c1d-4cea-a386-98bdaaaf65a0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Philadelphia HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27627631101.png" group-title="OUTROS",US: CBS Philadelphia HD
-http://ivageja84.online/live/8193237876/1850144201/2fb2e3ed-507b-4a11-bf07-06d4a9e75505.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Pittsburgh KDKA FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45695825271.png" group-title="OUTROS",US: CBS Pittsburgh KDKA FHD
-http://ivageja84.online/live/8193237876/1850144201/28a5f993-220d-45f2-a21e-8778ffbe092b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Pittsburgh PA KDKA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21457058911.png" group-title="OUTROS",US: CBS Pittsburgh PA KDKA HD
-http://ivageja84.online/live/8193237876/1850144201/fb25cdfb-855a-471d-909b-68abdd9bf7d8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sacramento HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97816626711.png" group-title="OUTROS",US: CBS Sacramento HD
-http://ivageja84.online/live/8193237876/1850144201/84e76469-0809-4868-ac0b-a5150edd4d70.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS SAN Antonio HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67406744061.png" group-title="OUTROS",US: CBS SAN Antonio HD
-http://ivageja84.online/live/8193237876/1850144201/376a6032-ac1f-4da8-8c41-57d26d840dd5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS ST Louis HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67523341431.png" group-title="OUTROS",US: CBS ST Louis HD
-http://ivageja84.online/live/8193237876/1850144201/180ad38f-da8e-4d4b-8f66-86bc38f76b8f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX 5 NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24914068251.png" group-title="OUTROS",US: FOX 5 NEW YORK HD
-http://ivageja84.online/live/8193237876/1850144201/74289ae0-0c7d-44fe-841e-ea35905260a9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Baltimore HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34590565051.png" group-title="OUTROS",US: FOX Baltimore HD
-http://ivageja84.online/live/8193237876/1850144201/3abed4d0-9102-49c6-97a2-c739a48864f2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Boston HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39474929131.png" group-title="OUTROS",US: FOX Boston HD
-http://ivageja84.online/live/8193237876/1850144201/96e460f3-b361-45b8-a65e-30e26c810094.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Buffalo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94581776871.png" group-title="OUTROS",US: FOX Buffalo HD
-http://ivageja84.online/live/8193237876/1850144201/f218989c-a504-492f-900c-36acc0d8a193.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Chicago HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44230026311.png" group-title="OUTROS",US: FOX Chicago HD
-http://ivageja84.online/live/8193237876/1850144201/780938e7-8613-4ad4-8edb-291622549724.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Cleveland HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68771779691.png" group-title="OUTROS",US: FOX Cleveland HD
-http://ivageja84.online/live/8193237876/1850144201/42de8ea3-c356-4f48-a3a9-60c8396d6df8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX College Sports Atlantic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82119921241.png" group-title="OUTROS",US: FOX College Sports Atlantic HD
-http://ivageja84.online/live/8193237876/1850144201/52a7e3a0-7eba-4aa9-96c1-9a2a80cfb3ff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX College Sports Pacific HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41005234941.png" group-title="OUTROS",US: FOX College Sports Pacific HD
-http://ivageja84.online/live/8193237876/1850144201/d266155b-b60a-4320-9c08-0d7db20c3662.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Columbus HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/70661228071.png" group-title="OUTROS",US: FOX Columbus HD
-http://ivageja84.online/live/8193237876/1850144201/f0b98160-f01f-4ab3-97bc-c1f3e698bda1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Dallas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81206378051.png" group-title="OUTROS",US: FOX Dallas HD
-http://ivageja84.online/live/8193237876/1850144201/24cf7a3b-8dc8-4b20-bc97-5539234fc24a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Deportes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12463464431.png" group-title="OUTROS",US: FOX Deportes HD
-http://ivageja84.online/live/8193237876/1850144201/cf382053-c96c-46d9-b4b3-d2649f7dd360.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Indianapolis HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22753345601.png" group-title="OUTROS",US: FOX Indianapolis HD
-http://ivageja84.online/live/8193237876/1850144201/b06966d9-ea65-470c-a4b6-3690cb6a6d6c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX LOS Angeles HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85455313431.png" group-title="OUTROS",US: FOX LOS Angeles HD
-http://ivageja84.online/live/8193237876/1850144201/32495416-c20f-411d-8b21-7877436a5b3d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Miami HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24166931011.png" group-title="OUTROS",US: FOX Miami HD
-http://ivageja84.online/live/8193237876/1850144201/95222775-3f77-496a-bcae-8c9e98b7029a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Nashville HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/87500289581.png" group-title="OUTROS",US: FOX Nashville HD
-http://ivageja84.online/live/8193237876/1850144201/c9902b3d-a011-40bf-b47a-1375091b5381.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Ocala HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5df8d0795e244f8930f1826f266ad878.png" group-title="OUTROS",US: FOX Ocala HD
-http://ivageja84.online/live/8193237876/1850144201/987d0172-c6df-4501-b324-3d5afb563f63.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Orlando HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35308403571.png" group-title="OUTROS",US: FOX Orlando HD
-http://ivageja84.online/live/8193237876/1850144201/e6c28b5c-1e62-4a27-9613-abb7b12f350e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Philadelphia PA WTXF HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35298840181.png" group-title="OUTROS",US: FOX Philadelphia PA WTXF HD
-http://ivageja84.online/live/8193237876/1850144201/c3b62f3f-17e7-4739-8c13-2d7f411bf498.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Pittsburgh HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27350678971.png" group-title="OUTROS",US: FOX Pittsburgh HD
-http://ivageja84.online/live/8193237876/1850144201/f6c0ba0c-c170-45a9-92fc-8195ce56f92c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SALT LAKE CITY HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85938655151.png" group-title="OUTROS",US: FOX SALT LAKE CITY HD
-http://ivageja84.online/live/8193237876/1850144201/19f1a9ab-c376-41bb-97e0-d43b89d54d08.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SAN Diego HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92550474771.png" group-title="OUTROS",US: FOX SAN Diego HD
-http://ivageja84.online/live/8193237876/1850144201/800f4f7d-3b4c-42d8-ba1a-aec04d5cf219.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SAN Francisco HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75294411731.png" group-title="OUTROS",US: FOX SAN Francisco HD
-http://ivageja84.online/live/8193237876/1850144201/6186099b-b64d-4e1d-9952-4cfdcea6ca70.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Tampa HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24935648631.png" group-title="OUTROS",US: FOX Tampa HD
-http://ivageja84.online/live/8193237876/1850144201/4cff2537-c435-430e-821f-f8ee9f569b18.m3u
 #EXTINF:-1 tvg-id="" tvg-name="US - FOX NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/78823288701.png" group-title="OUTROS",US - FOX NEW YORK HD
 http://ivageja84.online/live/8193237876/1850144201/7fdd302d-c96d-4638-9323-3c7ac4770e87.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Boston HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82040548031.png" group-title="OUTROS",US: FOX Boston HD
-http://ivageja84.online/live/8193237876/1850144201/3dec04b5-e350-4cbd-a859-947e50911889.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC 6 Miami FL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29321828561.png" group-title="OUTROS",US: NBC 6 Miami FL HD
-http://ivageja84.online/live/8193237876/1850144201/a64f209d-fd31-4333-a030-4065e8919c3f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Augusta HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30787370541.png" group-title="OUTROS",US: NBC Augusta HD
-http://ivageja84.online/live/8193237876/1850144201/8d8c7ec8-821b-4381-9ffc-398f1f584d45.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Charlotte HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29421958581.png" group-title="OUTROS",US: NBC Charlotte HD
-http://ivageja84.online/live/8193237876/1850144201/585bf196-9fbe-488d-9bf0-a79cad1abe1c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Cincinnati HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23953042041.png" group-title="OUTROS",US: NBC Cincinnati HD
-http://ivageja84.online/live/8193237876/1850144201/3403887a-b189-4154-a9f0-5e78c12ec095.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Cleveland HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62740628291.png" group-title="OUTROS",US: NBC Cleveland HD
-http://ivageja84.online/live/8193237876/1850144201/e041caa9-2cc4-47c1-be36-fc48f3d5f17b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Jacksonville HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89753470831.png" group-title="OUTROS",US: NBC Jacksonville HD
-http://ivageja84.online/live/8193237876/1850144201/1dde7f5c-7e37-4b72-bb7d-647573131df5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC NEW YORK HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18896253211.png" group-title="OUTROS",US: NBC NEW YORK HD
-http://ivageja84.online/live/8193237876/1850144201/450934d4-882a-411d-928e-990c454aaaf2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Portland HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12340506291.png" group-title="OUTROS",US: NBC Portland HD
-http://ivageja84.online/live/8193237876/1850144201/2729c83f-5032-4866-9ec8-30099cf56538.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC SAN Diego HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97531090701.png" group-title="OUTROS",US: NBC SAN Diego HD
-http://ivageja84.online/live/8193237876/1850144201/7c5f7476-ea5d-4877-a44e-9f2517c9e0a3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC SAN Francisco HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74302343171.png" group-title="OUTROS",US: NBC SAN Francisco HD
-http://ivageja84.online/live/8193237876/1850144201/7cb572d7-c9e4-4ca9-9e3c-c6f86b0a28c6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Seattle HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76952969241.png" group-title="OUTROS",US: NBC Seattle HD
-http://ivageja84.online/live/8193237876/1850144201/5bf76066-0aa2-4e4f-9cc4-91f7cc535eef.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Chicago HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58305453271.png" group-title="OUTROS",US: NBC Sports Chicago HD
-http://ivageja84.online/live/8193237876/1850144201/bd2297f1-1b0b-4daa-84e9-a8a55b9d078c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Orlando NBC WESH HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38820667411.png" group-title="OUTROS",US: Orlando NBC WESH HD
-http://ivageja84.online/live/8193237876/1850144201/f3bd120b-e801-4ac8-b0ea-c7a8a5f263eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Atlanta TV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19967428081.png" group-title="OUTROS",US: NBC Atlanta TV FHD
-http://ivageja84.online/live/8193237876/1850144201/54701581-babf-4e7e-94c3-866fbb2fdc0c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Philadelphia PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67506253371.png" group-title="OUTROS",US: NBC Sports Philadelphia PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/42c71b5e-a5ee-4285-9647-99ef28f960f8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Tampa BAY WFLA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35690132871.png" group-title="OUTROS",US: NBC Tampa BAY WFLA HD
-http://ivageja84.online/live/8193237876/1850144201/13ee8483-e10b-4917-a7a1-a7ef2f053ab8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26848052421.png" group-title="OUTROS",US: NBC Washington HD
-http://ivageja84.online/live/8193237876/1850144201/f5809c85-eb9d-4853-8606-5f8cbaba3008.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Nbcsn FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85088652511.png" group-title="OUTROS",US: Nbcsn FHD
-http://ivageja84.online/live/8193237876/1850144201/7d7799ab-49cf-46b9-9d83-ed4a57f8a167.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Nbcsn HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68078825121.png" group-title="OUTROS",US: Nbcsn HD
-http://ivageja84.online/live/8193237876/1850144201/ac8b3a00-acef-435f-a2d4-a2f370c5749f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Beyond HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36018747381.png" group-title="OUTROS",US: Showtime Beyond HD
-http://ivageja84.online/live/8193237876/1850144201/9d24ef3c-14a6-4e43-b70d-3d55d1be659e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88349494131.png" group-title="OUTROS",US: Showtime EAST HD
-http://ivageja84.online/live/8193237876/1850144201/b991a228-30fe-4c45-a100-f29a8671f2c6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Extreme HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29374525701.png" group-title="OUTROS",US: Showtime Extreme HD
-http://ivageja84.online/live/8193237876/1850144201/fe8580ca-40b8-4245-9dee-932433f1707e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Pacific & Beyond HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47678792441.png" group-title="OUTROS",US: Showtime Pacific & Beyond HD
-http://ivageja84.online/live/8193237876/1850144201/da7c01de-60ee-4d0f-984d-d74d1af78fac.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22083926901.png" group-title="OUTROS",US: Showtime Showcase HD
-http://ivageja84.online/live/8193237876/1850144201/04b170e0-3317-4cd5-88f5-d48ad145d9a3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz EDGE FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51570839921.png" group-title="OUTROS",US: Starz EDGE FHD
-http://ivageja84.online/live/8193237876/1850144201/d1b3efa8-d657-49a0-8d8e-e56c127fc031.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Action HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45708109171.png" group-title="OUTROS",US: Starz Encore Action HD
-http://ivageja84.online/live/8193237876/1850144201/38e82fdd-3b12-45fa-8f5c-42e6863b642e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Black HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24457762981.png" group-title="OUTROS",US: Starz Encore Black HD
-http://ivageja84.online/live/8193237876/1850144201/48cc47cd-f225-4ac9-a603-b76dc3539284.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Classic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38251032591.png" group-title="OUTROS",US: Starz Encore Classic HD
-http://ivageja84.online/live/8193237876/1850144201/78f7c5a1-120a-4502-b103-1cc715dc37b8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12640677541.png" group-title="OUTROS",US: Starz Encore EAST HD
-http://ivageja84.online/live/8193237876/1850144201/9a15bdd4-3d72-489c-acd7-550ef8c55471.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Family HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/54013884881.png" group-title="OUTROS",US: Starz Encore Family HD
-http://ivageja84.online/live/8193237876/1850144201/2a6bb06c-c63a-444a-a9f7-6fd9cfce8d5a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96154581191.png" group-title="OUTROS",US: Starz Encore HD
-http://ivageja84.online/live/8193237876/1850144201/9025ada4-08d3-4f99-a624-20b564587332.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Suspense HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42409319481.png" group-title="OUTROS",US: Starz Encore Suspense HD
-http://ivageja84.online/live/8193237876/1850144201/b6e15c7c-b722-4925-96ab-fcbdc84ede2b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83219943421.png" group-title="OUTROS",US: Starz Encore WEST HD
-http://ivageja84.online/live/8193237876/1850144201/730a5c34-4d6d-4e5c-b8db-549cb953e5b1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore Westerns HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24926375021.png" group-title="OUTROS",US: Starz Encore Westerns HD
-http://ivageja84.online/live/8193237876/1850144201/05f823d3-4406-425d-9493-0590611b41eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Global Calgary  HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c8cf818389f2a48cb2b22d4233863a8e.png" group-title="OUTROS",US: Global Calgary  HD
-http://ivageja84.online/live/8193237876/1850144201/d77ac37b-267f-40f3-885f-a12df54f1a62.m3u
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Documentary ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/a816c4f1e9bfb3a95b7b71256200a33c119.jpg" group-title="OUTROS",⭐⭐⭐ Documentary ⭐⭐⭐
 http://ivageja84.online/live/8193237876/1850144201/ceb216f6-1252-4eb3-ab86-87553a268247.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16286263871.png" group-title="DOCUMENTÁRIOS",US: Animal Planet HD
-http://ivageja84.online/live/8193237876/1850144201/0a2ab216-deae-44cd-8921-81b5593e4571.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Crime & Investigation HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94768444991.png" group-title="OUTROS",US: Crime & Investigation HD
-http://ivageja84.online/live/8193237876/1850144201/eaec148c-8e25-4dd5-acde-d2dc55bece0d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cheddar Business HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36136169481.png" group-title="OUTROS",US: Cheddar Business HD
-http://ivageja84.online/live/8193237876/1850144201/885cddce-cbfd-4143-804a-aa0402a8fa9e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Court TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32461225601.png" group-title="OUTROS",US: Court TV HD
-http://ivageja84.online/live/8193237876/1850144201/1c767c8a-2cb6-4451-9784-82da4bd6fe76.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Destination America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96370822251.png" group-title="OUTROS",US: Destination America HD
-http://ivageja84.online/live/8193237876/1850144201/b5006f79-3dd9-477d-9ba3-3a10b89137a3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16835791051.png" group-title="OUTROS",US: DIY Network HD
-http://ivageja84.online/live/8193237876/1850144201/b456addf-e106-48cd-90bc-a83fc711d7db.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Destination America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35674102881.png" group-title="OUTROS",US: Destination America HD
-http://ivageja84.online/live/8193237876/1850144201/b832497a-ec10-49ab-bcc8-a28b309ce86e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Great American Country HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56338507361.png" group-title="OUTROS",US: Great American Country HD
-http://ivageja84.online/live/8193237876/1850144201/0f41bdaf-6cc9-4eee-8d71-a9892261418a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: H2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30161104841.png" group-title="OUTROS",US: H2 HD
-http://ivageja84.online/live/8193237876/1850144201/5f830d41-85e3-42fb-8e8b-54242c65b234.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV  HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51758843991.png" group-title="VARIEDADES",US: HGTV  HD
-http://ivageja84.online/live/8193237876/1850144201/2275f1da-8cc7-4312-9a68-5bb75202794b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV (east) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82709409211.png" group-title="VARIEDADES",US: HGTV (east) HD
-http://ivageja84.online/live/8193237876/1850144201/c65634d3-5fa7-4379-8b02-987b5d035e08.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV (west) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39037031651.png" group-title="VARIEDADES",US: HGTV (west) HD
-http://ivageja84.online/live/8193237876/1850144201/569854c8-fc9d-4a3c-9fdb-ffaaea2e44f8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88620524471.png" group-title="VARIEDADES",US: HGTV HD
-http://ivageja84.online/live/8193237876/1850144201/553f3414-ea28-4a68-aca5-fd902dc67120.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94687149181.png" group-title="OUTROS",US: Lifetime HD
-http://ivageja84.online/live/8193237876/1850144201/cee2c238-0cb9-4b61-bea3-05a8c7561028.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: LAW & Crime Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74648747221.png" group-title="OUTROS",US: LAW & Crime Network HD
-http://ivageja84.online/live/8193237876/1850144201/6148eeea-c81b-4092-8fea-016f45981ae1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NASA TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53649799391.png" group-title="OUTROS",US: NASA TV HD
-http://ivageja84.online/live/8193237876/1850144201/2932b23b-b880-4a2f-ab9c-2e5b4ac1b481.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97447338921.png" group-title="OUTROS",US: Outdoor Channel HD
-http://ivageja84.online/live/8193237876/1850144201/9d213f2b-b0e4-4082-acbf-078eae7f3b21.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor ᴴᴰ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42497797681.png" group-title="OUTROS",US: Outdoor ᴴᴰ HD
-http://ivageja84.online/live/8193237876/1850144201/59f667a9-39c5-4694-8b7d-d9760bace4bf.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Pursuit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58677714431.png" group-title="OUTROS",US: Pursuit HD
-http://ivageja84.online/live/8193237876/1850144201/b5787831-80c5-4974-9ed4-7f87b36aabc5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Travel Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83021196361.png" group-title="OUTROS",US: Travel Channel HD
-http://ivageja84.online/live/8193237876/1850144201/ed9c7d8e-097c-48cd-8e03-bc97b75ae6e0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: THE Blaze HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73387134201.png" group-title="OUTROS",US: THE Blaze HD
-http://ivageja84.online/live/8193237876/1850144201/26834bd2-c6d5-4a37-90ac-3b9ef0120623.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Travel Channel WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34749037991.png" group-title="OUTROS",US: Travel Channel WEST HD
-http://ivageja84.online/live/8193237876/1850144201/c5e9ee0f-a607-4b7f-84ee-86b8f5193acc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Viceland HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99934497451.png" group-title="OUTROS",US: Viceland HD
-http://ivageja84.online/live/8193237876/1850144201/3800bbb0-04b9-4cbc-af47-296212867180.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: World Fishing Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13694873521.png" group-title="OUTROS",US: World Fishing Network HD
-http://ivageja84.online/live/8193237876/1850144201/eebb904f-f286-46fb-901d-0d71476869b3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Youtoo America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83403728701.png" group-title="OUTROS",US: Youtoo America HD
-http://ivageja84.online/live/8193237876/1850144201/3136a27f-4eac-42a5-b28d-a35b31eb1689.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: IFC FHD" tvg-logo="" group-title="OUTROS",US: IFC FHD
-http://ivageja84.online/live/8193237876/1850144201/d8516ccf-90e3-4dca-85dd-a0d26c167058.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: LAFF TV" tvg-logo="" group-title="OUTROS",US: LAFF TV
-http://ivageja84.online/live/8193237876/1850144201/0f5659ca-028e-47de-9a76-1ee8eb288236.m3u
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Entertainment ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/ef2e8129d993380f6b367a376718a2168686.png" group-title="OUTROS",⭐⭐⭐ Entertainment ⭐⭐⭐
 http://ivageja84.online/live/8193237876/1850144201/465466dc-2672-4eb4-8c12-ad8e299d8781.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Alternative HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43828132671.png" group-title="OUTROS",US: Alternative HD
-http://ivageja84.online/live/8193237876/1850144201/55207549-9be8-4ad7-9559-7501338a448d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AWE Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16171842991.png" group-title="OUTROS",US: AWE Channel HD
-http://ivageja84.online/live/8193237876/1850144201/169af72b-89a0-4876-9d90-145139bc25ff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AFV! HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28036945461.png" group-title="OUTROS",US: AFV! HD
-http://ivageja84.online/live/8193237876/1850144201/507f4429-e8ea-49db-b044-64835af5415a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Atlanta Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31217343441.png" group-title="OUTROS",US: Atlanta Channel HD
-http://ivageja84.online/live/8193237876/1850144201/f0dd2051-92aa-4060-ae16-bc68f1245005.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AXS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58795677311.png" group-title="OUTROS",US: AXS HD
-http://ivageja84.online/live/8193237876/1850144201/026058ef-f921-49db-9155-235d87c97a2e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC ONE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21247930831.png" group-title="OUTROS",US: BBC ONE HD
-http://ivageja84.online/live/8193237876/1850144201/245971ea-b1de-4895-8e8c-0d2314a5a740.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BIG LIFE TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48065842971.png" group-title="OUTROS",US: BIG LIFE TV HD
-http://ivageja84.online/live/8193237876/1850144201/1a13e5b3-056f-45e8-9249-23b73bf1e21a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Bounce TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49308052961.png" group-title="OUTROS",US: Bounce TV HD
-http://ivageja84.online/live/8193237876/1850144201/d0a310a0-3e3c-4a26-8ce1-e504df58d5e6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Buzzr HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73392817911.png" group-title="OUTROS",US: Buzzr HD
-http://ivageja84.online/live/8193237876/1850144201/eb3e4de3-6526-4670-8e8a-820752ad9563.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cheddar HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25107048711.png" group-title="OUTROS",US: Cheddar HD
-http://ivageja84.online/live/8193237876/1850144201/dcbe8189-6f5e-443f-ab2f-4f3a4e1354e5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CTN FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17773141041.png" group-title="OUTROS",US: CTN FHD
-http://ivageja84.online/live/8193237876/1850144201/65e7924c-bf5b-473e-b47a-243fd75491db.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Cooking Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82934487071.png" group-title="OUTROS",US: Cooking Channel HD
-http://ivageja84.online/live/8193237876/1850144201/6b630b6e-00f2-4b4e-8fe7-c4a6bc28ab8b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: DOG TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81533568141.png" group-title="OUTROS",US: DOG TV HD
-http://ivageja84.online/live/8193237876/1850144201/5c67c792-cb07-4435-a72e-b9321fbdaf52.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Ditty TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29747582721.png" group-title="OUTROS",US: Ditty TV HD
-http://ivageja84.online/live/8193237876/1850144201/7dc65da4-cf1b-4df0-8fdf-2477355fae1c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: E! HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38477989921.png" group-title="VARIEDADES",US: E! HD
-http://ivageja84.online/live/8193237876/1850144201/91fdc2e5-fde1-482d-b318-0aef01b634c0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: E! Entertainment HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98619229091.png" group-title="VARIEDADES",US: E! Entertainment HD
-http://ivageja84.online/live/8193237876/1850144201/139aa9ef-9f09-435d-8c46-a02736613da1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOOD Network (east) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36462986651.png" group-title="VARIEDADES",US: FOOD Network (east) HD
-http://ivageja84.online/live/8193237876/1850144201/d042fb0b-dcb6-4eb6-be11-a26d1d5f41d0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Business Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52018486681.png" group-title="OUTROS",US: FOX Business Network HD
-http://ivageja84.online/live/8193237876/1850144201/3b83a44d-e55f-4223-91c6-a3088dcbe083.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FUSE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83590501961.png" group-title="OUTROS",US: FUSE HD
-http://ivageja84.online/live/8193237876/1850144201/2345d60e-1e52-4615-9138-839aab855696.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Fusion HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82061301581.png" group-title="OUTROS",US: Fusion HD
-http://ivageja84.online/live/8193237876/1850144201/8db1e8c8-6d6f-496e-b5b4-ff36285dc7ef.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOLK TV HD" tvg-logo="https://img-cdn.curl.pk/chimg/3954265210.png" group-title="OUTROS",US: FOLK TV HD
-http://ivageja84.online/live/8193237876/1850144201/b0ad4979-ec69-4ae7-9f40-34fb0641214a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOOD Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48822759431.png" group-title="VARIEDADES",US: FOOD Network HD
-http://ivageja84.online/live/8193237876/1850144201/af4aecb1-51b9-4723-85c2-d0b2ae0e0de4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FYI HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11379765071.png" group-title="OUTROS",US: FYI HD
-http://ivageja84.online/live/8193237876/1850144201/0ecc0bfe-15bc-4524-851b-11c65f6017a8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: GAME SHOW Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89929578221.png" group-title="OUTROS",US: GAME SHOW Network HD
-http://ivageja84.online/live/8193237876/1850144201/4e4c3dba-fe16-48df-8d40-86639c5cc3c1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HLN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12762979031.png" group-title="OUTROS",US: HLN HD
-http://ivageja84.online/live/8193237876/1850144201/7423658e-adff-4d87-a216-98d1d9c6de28.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HSN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25667895371.png" group-title="OUTROS",US: HSN HD
-http://ivageja84.online/live/8193237876/1850144201/6bfd050e-52e7-424c-8661-1536060a2c50.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MavTV HD" tvg-logo="" group-title="OUTROS",US: MavTV HD
-http://ivageja84.online/live/8193237876/1850144201/3cdd19dc-7231-4443-8bab-bcee0eaf0159.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ME TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38764687651.png" group-title="OUTROS",US: ME TV HD
-http://ivageja84.online/live/8193237876/1850144201/33677b7d-4cdf-45aa-be12-06e9641dedab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: OWN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89621018241.png" group-title="OUTROS",US: OWN HD
-http://ivageja84.online/live/8193237876/1850144201/357999e3-8a7d-4210-a346-e107d6cfeac9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Oxygen EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37046806691.png" group-title="OUTROS",US: Oxygen EAST HD
-http://ivageja84.online/live/8193237876/1850144201/041733ac-c85e-45b8-846b-39123fce40e7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Oxygen WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46225550721.png" group-title="OUTROS",US: Oxygen WEST HD
-http://ivageja84.online/live/8193237876/1850144201/f7e76270-837f-4485-a755-434c2511b29a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: QVC 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/10267522491.png" group-title="OUTROS",US: QVC 2 HD
-http://ivageja84.online/live/8193237876/1850144201/773e4117-47ee-4e4c-83f8-3755e8a0deb6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Revolt HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25991097711.png" group-title="OUTROS",US: Revolt HD
-http://ivageja84.online/live/8193237876/1850144201/566b12ff-b27b-4bd4-8978-28a303643d6d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Reelz HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34493818871.png" group-title="OUTROS",US: Reelz HD
-http://ivageja84.online/live/8193237876/1850144201/68f05314-3c02-456d-9639-c8eb094feadc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: RFD TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64976453361.png" group-title="OUTROS",US: RFD TV HD
-http://ivageja84.online/live/8193237876/1850144201/c7e05bbc-f963-4a93-b107-8b0b898d0e56.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Smithsonian Channel WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65623868711.png" group-title="OUTROS",US: Smithsonian Channel WEST HD
-http://ivageja84.online/live/8193237876/1850144201/36f0c3ae-224e-4b2f-a1af-14b7a895ae54.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Tastemade HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96885274031.png" group-title="OUTROS",US: Tastemade HD
-http://ivageja84.online/live/8193237876/1850144201/a14681d4-6d2c-4797-b108-6acd24bacc7a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: THE Cowboy Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/40447578161.png" group-title="OUTROS",US: THE Cowboy Channel HD
-http://ivageja84.online/live/8193237876/1850144201/046d1f11-9dd9-429c-8886-d26b0ee65b98.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TLC 4K HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36685984191.png" group-title="VARIEDADES",US: TLC 4K HD
-http://ivageja84.online/live/8193237876/1850144201/6656d3eb-2851-4875-b4c2-a397b8cba144.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|US| TLC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43931886331.png" group-title="VARIEDADES",|US| TLC HD
 http://ivageja84.online/live/8193237876/1850144201/38db32bc-48f6-4c0b-ac76-2d9ae63eef3c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TLC WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91710396511.png" group-title="VARIEDADES",US: TLC WEST HD
-http://ivageja84.online/live/8193237876/1850144201/88f45396-59eb-4f50-8cc5-27335eaf6621.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TRU TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35590172331.png" group-title="OUTROS",US: TRU TV HD
-http://ivageja84.online/live/8193237876/1850144201/8085c253-896e-435a-81e2-29b5eb79895c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Unimas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/70042914611.png" group-title="OUTROS",US: Unimas HD
-http://ivageja84.online/live/8193237876/1850144201/76036e89-8bd9-4107-bb8d-793f4e323711.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: WE TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49158924631.png" group-title="OUTROS",US: WE TV HD
-http://ivageja84.online/live/8193237876/1850144201/b3649fcb-2e85-4784-8b37-ced37b11b4bb.m3u
 #EXTINF:-1 tvg-id="" tvg-name="US.american Heroes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74548799701.png" group-title="OUTROS",US.american Heroes HD
 http://ivageja84.online/live/8193237876/1850144201/4f3b2602-f251-44eb-97d2-09852e8dfc46.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TV ONE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93675728751.png" group-title="OUTROS",US: TV ONE HD
-http://ivageja84.online/live/8193237876/1850144201/4e7e0dd3-5c59-4e47-bf80-f6e3465fdd48.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TV LAND HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/bb33bc4353c6ff5ffc49f4c3c6764e17.png" group-title="OUTROS",US: TV LAND HD
-http://ivageja84.online/live/8193237876/1850144201/8ba6c6a5-7f20-4c06-a3b0-59fe828f8c43.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: AccuWeather" tvg-logo="" group-title="OUTROS",US: AccuWeather
-http://ivageja84.online/live/8193237876/1850144201/46954e8a-df63-4435-b686-28b02c573802.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Real America's Voice" tvg-logo="https://i.ibb.co/HBkJSJ1/51-SAg-Rya1j-L.png" group-title="OUTROS",US: Real America's Voice
-http://ivageja84.online/live/8193237876/1850144201/ce6cd3be-205b-4d7c-9138-2ab0f581b8a2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Aljazeera Balkans HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86968711221.png" group-title="OUTROS",US: Aljazeera Balkans HD
-http://ivageja84.online/live/8193237876/1850144201/34b1a062-29f7-4b65-ba58-81d7aa3ded13.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Aljazeera English HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/39084886121.png" group-title="OUTROS",US: Aljazeera English HD
-http://ivageja84.online/live/8193237876/1850144201/55f76403-742e-4d92-891f-b094befcd5a6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60076814771.png" group-title="OUTROS",US: BBC America HD
-http://ivageja84.online/live/8193237876/1850144201/c8dba346-7014-477c-ae2b-03d8ce77b1de.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48414709381.png" group-title="OUTROS",US: BBC America HD
-http://ivageja84.online/live/8193237876/1850144201/5c062577-9258-4c4b-9d0c-5aba21d85364.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: C-span 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30516832551.png" group-title="OUTROS",US: C-span 1 HD
-http://ivageja84.online/live/8193237876/1850144201/76c98133-a931-4fc2-91bf-2fc5f3255c83.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: C-span 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88253665981.png" group-title="OUTROS",US: C-span 2 HD
-http://ivageja84.online/live/8193237876/1850144201/26c47803-2ba1-41ab-92ad-51ca5389898c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: C-span 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19600237121.png" group-title="OUTROS",US: C-span 3 HD
-http://ivageja84.online/live/8193237876/1850144201/5d2a4577-cab9-4f9b-84f5-2534bd31708a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CW 11 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31326812261.png" group-title="OUTROS",US: CW 11 HD
-http://ivageja84.online/live/8193237876/1850144201/033baabe-d556-4b70-8c41-eba138dae57a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CTV London HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50460372921.png" group-title="OUTROS",US: CTV London HD
-http://ivageja84.online/live/8193237876/1850144201/aff3774a-f249-47cf-99eb-c5ce3b52bf0d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15673715011.png" group-title="OUTROS",US: FOX 2 HD
-http://ivageja84.online/live/8193237876/1850144201/e9a1c57b-0d92-4232-aa46-d2c09f638f5f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Msnbc HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66185185891.png" group-title="OUTROS",US: Msnbc HD
-http://ivageja84.online/live/8193237876/1850144201/db1262df-5599-4cd8-93a2-e32b22c7e1fc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: NEW Orleans TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35482430711.png" group-title="OUTROS",US: NEW Orleans TV HD
-http://ivageja84.online/live/8193237876/1850144201/d608a1fb-34a6-4b0a-93a1-4fd3f5e112bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Parliament TV HD" tvg-logo="https://img-cdn.curl.pk/chimg/4632975673.png" group-title="OUTROS",US: Parliament TV HD
-http://ivageja84.online/live/8193237876/1850144201/cc5aa506-ee8c-47a0-936b-373345725a73.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Press TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33752816291.png" group-title="OUTROS",US: Press TV HD
-http://ivageja84.online/live/8193237876/1850144201/067923f3-39d9-40f5-80fd-99721803437e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: THE Weather Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32025292991.png" group-title="OUTROS",US: THE Weather Channel HD
-http://ivageja84.online/live/8193237876/1850144201/5eebf3f7-3f8c-4f33-9de3-4cd89be583db.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TYT Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53188199051.png" group-title="OUTROS",US: TYT Network HD
-http://ivageja84.online/live/8193237876/1850144201/c433d504-ad2c-443e-94ad-a56545330475.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: THE CW 4K HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11938483681.png" group-title="OUTROS",US: THE CW 4K HD
-http://ivageja84.online/live/8193237876/1850144201/cff44350-fe43-4056-9191-53345d769ded.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Weather Nation HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22766424811.png" group-title="OUTROS",US: Weather Nation HD
-http://ivageja84.online/live/8193237876/1850144201/0ec78657-e618-4fe9-9870-19e9ce288b42.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: WGN America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42966795681.png" group-title="OUTROS",US: WGN America HD
-http://ivageja84.online/live/8193237876/1850144201/1d046d60-2624-41c2-a4dc-3b21c3d15c26.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: WGN America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30627259231.png" group-title="OUTROS",US: WGN America HD
-http://ivageja84.online/live/8193237876/1850144201/344389f7-5666-4fe5-a1b0-eb203c613ca8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21063548211.png" group-title="OUTROS",US: MTV 2 HD
-http://ivageja84.online/live/8193237876/1850144201/1bed8cd7-17a6-42fb-bf8c-335b5fc1bc2f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV LIVE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51127289541.png" group-title="OUTROS",US: MTV LIVE HD
-http://ivageja84.online/live/8193237876/1850144201/f6601fe0-0829-41bc-ad61-2416aff502de.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MTV U HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14268001071.png" group-title="OUTROS",US: MTV U HD
-http://ivageja84.online/live/8193237876/1850144201/ff0fc868-1108-4d06-b10f-7fee56096eb5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Music 90S HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67000652391.png" group-title="OUTROS",US: Music 90S HD
-http://ivageja84.online/live/8193237876/1850144201/e406c662-0665-42d4-8988-97bdf94f579c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Music Choice Dance EDM HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/40166691631.png" group-title="OUTROS",US: Music Choice Dance EDM HD
-http://ivageja84.online/live/8193237876/1850144201/4c93e1bf-b3ed-4306-9c52-cf2d8a5f364c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MUsic: MC: Dance HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44394687861.png" group-title="OUTROS",MUsic: MC: Dance HD
 http://ivageja84.online/live/8193237876/1850144201/2b51fab8-ea0b-419a-a8de-620281fa2e19.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91503932021.png" group-title="OUTROS",US: VH1 HD
-http://ivageja84.online/live/8193237876/1850144201/9ee19c19-10c3-4136-b655-7005edaa7dbb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: HIP HOP & R&B HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/12962893241.png" group-title="OUTROS",US: HIP HOP & R&B HD
-http://ivageja84.online/live/8193237876/1850144201/96140d66-84ba-4806-8744-1a13ee12652d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: RAP 2K HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19937493061.png" group-title="OUTROS",US: RAP 2K HD
-http://ivageja84.online/live/8193237876/1850144201/7613a00c-5262-4ebb-85ae-8e0e1f7f9378.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 (east) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51708148811.png" group-title="OUTROS",US: VH1 (east) HD
-http://ivageja84.online/live/8193237876/1850144201/8191f139-421d-4b1f-978b-f1cde269cfa2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: VH1 WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22665644911.png" group-title="OUTROS",US: VH1 WEST HD
-http://ivageja84.online/live/8193237876/1850144201/f7a071ef-dfa4-4376-9511-866a21dec95e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Reelz" tvg-logo="" group-title="OUTROS",US: Reelz
-http://ivageja84.online/live/8193237876/1850144201/824a0546-8342-4fc5-a7a0-d31b257792bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: The Movie Channel" tvg-logo="" group-title="OUTROS",US: The Movie Channel
-http://ivageja84.online/live/8193237876/1850144201/0a2efede-ba69-437c-aaf8-ebed51cbdc3c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: The Movie Channel Xtra" tvg-logo="" group-title="OUTROS",US: The Movie Channel Xtra
-http://ivageja84.online/live/8193237876/1850144201/49c608f9-f27f-4fd3-8d0a-3d2d167032dc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Action MAX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43061900591.png" group-title="OUTROS",US: Action MAX HD
-http://ivageja84.online/live/8193237876/1850144201/b52e3653-0ba1-4369-b3c6-40124d917cac.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25586911221.png" group-title="OUTROS",US: BET HD
-http://ivageja84.online/live/8193237876/1850144201/72e206df-66cc-41ed-ab57-d31ffdba7225.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95405643221.png" group-title="OUTROS",US: BET HD
-http://ivageja84.online/live/8193237876/1850144201/6a8e81bc-b51b-4c27-9b67-7435c52c7fa0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BET JAMS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60422290911.png" group-title="OUTROS",US: BET JAMS HD
-http://ivageja84.online/live/8193237876/1850144201/5e12640a-3309-4a65-ad26-103aaecc509d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BET SOUL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75260815061.png" group-title="OUTROS",US: BET SOUL HD
-http://ivageja84.online/live/8193237876/1850144201/46417580-7ec1-4ff4-bafa-20df5679e98e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HER HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52930017271.png" group-title="OUTROS",US: BET HER HD
-http://ivageja84.online/live/8193237876/1850144201/79a7e4e8-a9dc-417e-b253-c624445de394.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Bravo EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15030349791.png" group-title="OUTROS",US: Bravo EAST HD
-http://ivageja84.online/live/8193237876/1850144201/4d6eab92-d540-41a5-b584-e19d61353ed0.m3u
 #EXTINF:-1 tvg-id="" tvg-name="|US| Bravo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57661201441.png" group-title="OUTROS",|US| Bravo HD
 http://ivageja84.online/live/8193237876/1850144201/aacee5f5-cc1d-448f-95b1-026b9faeed73.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BOX Offic: 01 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92465772051.png" group-title="VARIEDADES",US: BOX Offic: 01 HD
-http://ivageja84.online/live/8193237876/1850144201/b7595fd9-e65f-4e70-beca-91ead1cf3e63.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: BOX Office 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23804532421.png" group-title="VARIEDADES",US: BOX Office 2 HD
-http://ivageja84.online/live/8193237876/1850144201/4217b812-78ae-4412-b493-c7ca77ec6976.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: CMT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69275460691.png" group-title="OUTROS",US: CMT HD
-http://ivageja84.online/live/8193237876/1850144201/e8801d40-15cc-47be-97a4-e6f38b80d55a.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: COZI TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/10909239891.png" group-title="OUTROS",US: COZI TV HD
-http://ivageja84.online/live/8193237876/1850144201/0a95433c-57f8-4bfb-a681-d257788c0d29.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MGM HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17322291731.png" group-title="OUTROS",US: MGM HD
-http://ivageja84.online/live/8193237876/1850144201/d6501b51-8650-42f7-b483-20b2095ee203.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MGM 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15944951611.png" group-title="OUTROS",US: MGM 2 HD
-http://ivageja84.online/live/8193237876/1850144201/82549dfd-9d2e-451d-aae7-0812f06f5cc1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MGM HITS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41706793071.png" group-title="OUTROS",US: MGM HITS HD
-http://ivageja84.online/live/8193237876/1850144201/c6c114fb-aa35-41a4-8633-56af85861bd1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: MGM Drive IN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37142477231.png" group-title="OUTROS",US: MGM Drive IN HD
-http://ivageja84.online/live/8193237876/1850144201/ebc932dc-c832-4ea1-aeaf-79fba5f0ad5c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Freeform Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61115874051.png" group-title="OUTROS",US: Freeform Channel HD
-http://ivageja84.online/live/8193237876/1850144201/a9285616-6a03-4652-abc5-57e4f2e3aba4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: GRIT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30102227741.png" group-title="OUTROS",US: GRIT HD
-http://ivageja84.online/live/8193237876/1850144201/5822f945-bd9d-4dfd-8865-15315a8074ae.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Channel HD" tvg-logo="https://img-cdn.curl.pk/chimg/5439654696.png" group-title="OUTROS",US: Hallmark Channel HD
-http://ivageja84.online/live/8193237876/1850144201/35701d71-05e7-498d-a96b-85f43598710b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83241849011.png" group-title="OUTROS",US: Hallmark EAST HD
-http://ivageja84.online/live/8193237876/1850144201/8ae6d499-0c6e-4848-999f-43bc914b8c19.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61244187791.png" group-title="OUTROS",US: Hallmark HD
-http://ivageja84.online/live/8193237876/1850144201/35305b0a-612d-4274-a8cc-79b199886d7e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Drama HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14267954051.png" group-title="OUTROS",US: Hallmark Drama HD
-http://ivageja84.online/live/8193237876/1850144201/7bd3564f-e013-4ffe-a8b9-db5b6040da64.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies & Mysteries HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/54443446321.png" group-title="OUTROS",US: Hallmark Movies & Mysteries HD
-http://ivageja84.online/live/8193237876/1850144201/8f154cd0-37f8-4dd1-9bf9-e61acc28c3a5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91981745741.png" group-title="OUTROS",US: Hallmark Movies HD
-http://ivageja84.online/live/8193237876/1850144201/8688ddbf-0ca0-4b89-90fa-bbeb0920ee48.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies AND Mysteries HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38445273781.png" group-title="OUTROS",US: Hallmark Movies AND Mysteries HD
-http://ivageja84.online/live/8193237876/1850144201/1c0a686c-ef43-49f0-8f8d-5140d6c55356.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies&mysteries HD 1080p" tvg-logo="https://img-cdn.curl.pk/channels_icon/97075477261.png" group-title="OUTROS",US: Hallmark Movies&mysteries HD 1080p
-http://ivageja84.online/live/8193237876/1850144201/08db55c1-05ad-4a09-a030-3be2c50ba10f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Indie PLEX HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23831627111.png" group-title="OUTROS",US: Indie PLEX HD
-http://ivageja84.online/live/8193237876/1850144201/511504a2-33ac-4335-9804-53dc6ef49dbc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: ION Television EAST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83685736391.png" group-title="OUTROS",US: ION Television EAST HD
-http://ivageja84.online/live/8193237876/1850144201/204eda04-7165-4032-b4c0-585005210858.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime Movie Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15310617771.png" group-title="OUTROS",US: Lifetime Movie Network HD
-http://ivageja84.online/live/8193237876/1850144201/d64d82b4-b6a6-4ec3-9aac-9e3a01fd8c7c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime Movies FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97881120671.png" group-title="OUTROS",US: Lifetime Movies FHD
-http://ivageja84.online/live/8193237876/1850144201/90ff9eec-3889-4265-86b3-f4b66627192e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: PIXL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99079825351.png" group-title="OUTROS",US: PIXL HD
-http://ivageja84.online/live/8193237876/1850144201/c538f409-ee39-4bf3-97da-9445c38181e4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Sundance HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75738317651.png" group-title="OUTROS",US: Sundance HD
-http://ivageja84.online/live/8193237876/1850144201/69ec5c72-6c2a-4024-a917-52036baa8248.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime NEXT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48259511551.png" group-title="OUTROS",US: Showtime NEXT HD
-http://ivageja84.online/live/8193237876/1850144201/1ca1b7b8-29cd-4a19-b96c-cfb86582f3cb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime WEST HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75171535051.png" group-title="OUTROS",US: Showtime WEST HD
-http://ivageja84.online/live/8193237876/1850144201/e58354cb-9364-480e-aead-508876a18d3b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Women HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/87154107531.png" group-title="OUTROS",US: Showtime Women HD
-http://ivageja84.online/live/8193237876/1850144201/9b5ee42d-8c03-4073-8c2d-3e5395633eee.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: SONY Movie Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25643260591.png" group-title="OUTROS",US: SONY Movie Channel HD
-http://ivageja84.online/live/8193237876/1850144201/8c37a80b-97e0-4d7e-b46b-48fc99e16954.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: SONY Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43361099291.png" group-title="OUTROS",US: SONY Movies HD
-http://ivageja84.online/live/8193237876/1850144201/1ac55abc-98da-4bbd-a9a4-9abf9252374e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz IN Black HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56306520231.png" group-title="OUTROS",US: Starz IN Black HD
-http://ivageja84.online/live/8193237876/1850144201/e0a11c0f-50ef-48d4-9cf9-cdf91c4527a6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz KIDS AND Family HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14821179191.png" group-title="OUTROS",US: Starz KIDS AND Family HD
-http://ivageja84.online/live/8193237876/1850144201/46a8c1bc-2958-4bb2-8e0a-afd005ebe329.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24101161841.png" group-title="OUTROS",US: TBS HD
-http://ivageja84.online/live/8193237876/1850144201/0774d0b8-05a5-4601-a4ac-62ee89c13350.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Turner Classic Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16067805061.png" group-title="OUTROS",US: Turner Classic Movies HD
-http://ivageja84.online/live/8193237876/1850144201/c84e9f03-9186-49e7-a9f9-791a6579f95f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: 30A TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32544850751.png" group-title="OUTROS",US: 30A TV HD
-http://ivageja84.online/live/8193237876/1850144201/26a30415-3407-4e2a-b273-e6b99ae9ed22.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Start TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57858590171.png" group-title="OUTROS",US: Start TV HD
-http://ivageja84.online/live/8193237876/1850144201/45c4e793-fd4c-48ce-be2b-b56fdc1d7cea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="US: Start TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58713260781.png" group-title="OUTROS",US: Start TV HD
-http://ivageja84.online/live/8193237876/1850144201/1e1c9ced-847c-46c6-8eaa-f41258293e5d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LT: Canal 12 HD" tvg-logo="" group-title="OUTROS",LT: Canal 12 HD
-http://ivageja84.online/live/8193237876/1850144201/56620393-decf-4bc7-8c29-144c12da56f7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LT: Canal 4 HD" tvg-logo="" group-title="OUTROS",LT: Canal 4 HD
-http://ivageja84.online/live/8193237876/1850144201/3776f4f8-0d36-43de-b33d-cb9ecfb1c8fe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LT: VTV HD" tvg-logo="" group-title="OUTROS",LT: VTV HD
-http://ivageja84.online/live/8193237876/1850144201/18ab4ab2-48b1-4b03-ba5d-3aa8872dd993.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LT: VTV PLUS HD" tvg-logo="" group-title="OUTROS",LT: VTV PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/b12e51d6-ba4c-4877-8d4f-9e8c7899adf6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Canal DE LAS Estrellas. HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/78984301641.png" group-title="OUTROS",LA: Canal DE LAS Estrellas. HD
-http://ivageja84.online/live/8193237876/1850144201/6a00d5ca-5e2a-4b1b-b9f2-4ac021e5c12d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MEgaTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85719703801.png" group-title="OUTROS",MEgaTV HD
 http://ivageja84.online/live/8193237876/1850144201/27a10982-5c4c-4933-8c09-031b9755b276.m3u
 #EXTINF:-1 tvg-id="" tvg-name="UNivision HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31800436801.png" group-title="OUTROS",UNivision HD
 http://ivageja84.online/live/8193237876/1850144201/7bc2d3e6-cf61-43c4-8ba8-7092a933ca92.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cableonda Sports HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24877375591.png" group-title="OUTROS",LA: Cableonda Sports HD
-http://ivageja84.online/live/8193237876/1850144201/28dbf945-ae73-40cf-a7ae-ad6a4c278721.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Azteca 7 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46109960971.png" group-title="OUTROS",LA: Azteca 7 HD
-http://ivageja84.online/live/8193237876/1850144201/5759d288-8398-4c93-98e8-51e1a1d3abac.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Unicable HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632382121.png" group-title="OUTROS",LA: Unicable HD
-http://ivageja84.online/live/8193237876/1850144201/f50a0b3e-baa1-4276-9096-7a19593def89.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LAtin-c: America TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28152657861.png" group-title="OUTROS",LAtin-c: America TV HD
 http://ivageja84.online/live/8193237876/1850144201/9270eb0d-9abb-4d42-af30-f6d130d33f0f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG : Canal Provincial SAN Miguel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50017533441.png" group-title="OUTROS",ARG : Canal Provincial SAN Miguel HD
 http://ivageja84.online/live/8193237876/1850144201/56349f54-268e-45b0-9cd8-b6db79f5f388.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CR: Telesur HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91219873741.png" group-title="OUTROS",CR: Telesur HD
-http://ivageja84.online/live/8193237876/1850144201/b2893bdd-6987-4550-bf53-27aa30f3c340.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DR: Microvision 10 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38176945571.png" group-title="OUTROS",DR: Microvision 10 HD
-http://ivageja84.online/live/8193237876/1850144201/9282b339-d84a-4966-9959-04cda9575505.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DR: Romana TV 42 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19467591351.png" group-title="OUTROS",DR: Romana TV 42 HD
-http://ivageja84.online/live/8193237876/1850144201/2e4b3cc4-24bb-44a1-a474-1b62ef839cc7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DR: Super TV 55 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60368371681.png" group-title="OUTROS",DR: Super TV 55 HD
-http://ivageja84.online/live/8193237876/1850144201/cb738512-4338-40d1-bccc-6236e447f679.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DR: Telecanal 28 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90392810571.png" group-title="OUTROS",DR: Telecanal 28 HD
-http://ivageja84.online/live/8193237876/1850144201/09fd593c-636d-4728-b18f-6ab845191f3e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DR : Telefuturo 23 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97477249111.png" group-title="OUTROS",DR : Telefuturo 23 HD
 http://ivageja84.online/live/8193237876/1850144201/c7ff374a-c7b0-4aac-b15e-2022f2de0295.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DR: Television DEL ESTE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21134432311.png" group-title="OUTROS",DR: Television DEL ESTE HD
-http://ivageja84.online/live/8193237876/1850144201/13d4f5bf-c9f3-4dd0-80b7-bb454bd037f9.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LA : TEN Canal 10 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58719922151.png" group-title="OUTROS",LA : TEN Canal 10 HD
 http://ivageja84.online/live/8193237876/1850144201/0603f59a-c649-4962-91b8-f90c113f5216.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LA :telesur SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37519707481.png" group-title="OUTROS",LA :telesur SD
 http://ivageja84.online/live/8193237876/1850144201/ec6638a2-66ac-4adf-9c56-bcbb9e637141.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: ATB HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58823416321.png" group-title="OUTROS",LA: ATB HD
-http://ivageja84.online/live/8193237876/1850144201/628f7251-6f8b-436d-b81b-559406c9a431.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PR | WAPA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90442742521.png" group-title="OUTROS",PR | WAPA HD
 http://ivageja84.online/live/8193237876/1850144201/3f7d8933-d0b6-4e93-aa3e-3a462df4c1d3.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PR | WIPR Canal 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/10746827991.png" group-title="OUTROS",PR | WIPR Canal 6 HD
 http://ivageja84.online/live/8193237876/1850144201/05efb15c-a129-4d9e-b9a0-128db701d47e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PR | WAPA America HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33342607431.png" group-title="OUTROS",PR | WAPA America HD
 http://ivageja84.online/live/8193237876/1850144201/c96e15c0-b6c5-4daf-8378-b929e012f045.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LA: Canal 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19134926571.png" group-title="OUTROS",LA: Canal 5 HD
-http://ivageja84.online/live/8193237876/1850144201/cded957d-f388-4b60-aa83-9b8bd52c85e3.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX : ADN 40 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45240408921.png" group-title="OUTROS",MX : ADN 40 HD
 http://ivageja84.online/live/8193237876/1850144201/b6f7f8ce-5260-47ad-b7b0-34c246af7121.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG : Telenord Corrientes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80639238511.png" group-title="OUTROS",ARG : Telenord Corrientes HD
 http://ivageja84.online/live/8193237876/1850144201/1612e9d6-5df8-4138-9e6b-c40efe3d7bff.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Telemundo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8b1947c8f6a2a3c89904207d51f5edef.png" group-title="OUTROS",MX: Telemundo HD
-http://ivageja84.online/live/8193237876/1850144201/90daea65-43c8-4011-b0bf-868754d128d3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ba70844d925528408119fbd622bf1d2d.png" group-title="OUTROS",MX: TUDN HD
-http://ivageja84.online/live/8193237876/1850144201/07d701be-29c8-4c01-8746-635aabb6b3bd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX : Teleritmo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98781614141.png" group-title="OUTROS",MX : Teleritmo HD
 http://ivageja84.online/live/8193237876/1850144201/9d2a7d82-637d-4b5f-838a-ac90c6191735.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Alcarria TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75618740281.png" group-title="OUTROS",MX: Alcarria TV HD
-http://ivageja84.online/live/8193237876/1850144201/6a169dca-4869-4e2b-b783-a108290697fc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Networks HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62634247271.png" group-title="OUTROS",MX: Televisa Networks HD
-http://ivageja84.online/live/8193237876/1850144201/0f8f664a-33de-4b36-b3f6-a6d1a1305f36.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88370380421.png" group-title="OUTROS",MX | Azteca 7 HD
 http://ivageja84.online/live/8193237876/1850144201/6a91a7bb-bb60-4576-9b45-db65ebec6616.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal 4 HD Guadalajara" tvg-logo="https://img-cdn.curl.pk/channels_icon/86677510781.png" group-title="OUTROS",MX | Canal 4 HD Guadalajara
@@ -3963,14 +3213,10 @@ http://ivageja84.online/live/8193237876/1850144201/a48671b8-54d4-49a4-ba1e-d52b4
 http://ivageja84.online/live/8193237876/1850144201/f2fa025f-d895-412a-8531-2a7c29045126.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV HD @" tvg-logo="https://img-cdn.curl.pk/channels_icon/45967313211.png" group-title="OUTROS",MX | FORO TV HD @
 http://ivageja84.online/live/8193237876/1850144201/a0884d0f-932e-452f-b631-7d62498913eb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca UNO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60959199891.png" group-title="OUTROS",MX: Azteca UNO HD
-http://ivageja84.online/live/8193237876/1850144201/40674780-4880-483a-a1fb-f10adb39e00c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Imagen @ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85567760231.png" group-title="OUTROS",MX | Imagen @ HD
 http://ivageja84.online/live/8193237876/1850144201/73020b41-e2cb-4b5a-8e47-7618e8bf0025.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5 @ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75789305031.png" group-title="OUTROS",MX | Canal 5 @ HD
 http://ivageja84.online/live/8193237876/1850144201/cf25f74d-e667-4fcd-b636-3639e7a7ea87.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal DE LAS Estrellas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56579133961.png" group-title="OUTROS",MX: Canal DE LAS Estrellas HD
-http://ivageja84.online/live/8193237876/1850144201/ce5f1919-324b-43b3-ab5e-3a2c23e1d03c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Azteca UNO @ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88720261011.png" group-title="OUTROS",MX | Azteca UNO @ HD
 http://ivageja84.online/live/8193237876/1850144201/d4527216-4e54-421d-ba44-afd05b5099f2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75615352681.png" group-title="OUTROS",MX | ADN 40 HD
@@ -3987,68 +3233,18 @@ http://ivageja84.online/live/8193237876/1850144201/b5e69f74-0c31-4b88-a860-52cee
 http://ivageja84.online/live/8193237876/1850144201/607dc938-29fb-47c9-b7f1-d00f7478b4a6.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Bitme SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75600026821.png" group-title="OUTROS",MX | Bitme SD
 http://ivageja84.online/live/8193237876/1850144201/7f273e68-eb4a-4b70-bb02-b0fdda4a5bd3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Adn40 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47678737211.png" group-title="OUTROS",MX: Adn40 HD
-http://ivageja84.online/live/8193237876/1850144201/d53e6af3-52db-4ce6-ad46-f7b2a3d006ce.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7 @ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/40530681191.png" group-title="OUTROS",MX | Azteca 7 @ HD
 http://ivageja84.online/live/8193237876/1850144201/9b89cebc-79a0-4ed4-8801-2df83144cac8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 10 Cancun HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/34461406721.png" group-title="OUTROS",MX: Canal 10 Cancun HD
-http://ivageja84.online/live/8193237876/1850144201/d627691c-0e22-4f24-9053-291e0572e8bd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Canal ONCE (Y) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17528532051.png" group-title="OUTROS",MX | Canal ONCE (Y) HD
 http://ivageja84.online/live/8193237876/1850144201/b0772ba2-9e95-41ea-afbb-20d34a7235e4.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Teleformula HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/38149922321.png" group-title="OUTROS",MX | Teleformula HD
 http://ivageja84.online/live/8193237876/1850144201/b9bf8a62-7be9-4d53-b29c-284a1a421461.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Ingenio TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65831645711.png" group-title="OUTROS",MX: Ingenio TV SD
-http://ivageja84.online/live/8193237876/1850144201/c6f91ff1-df09-4e84-bdc1-0aec19403454.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal ONCE FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48700179071.png" group-title="OUTROS",MX: Canal ONCE FHD
-http://ivageja84.online/live/8193237876/1850144201/24cc0e75-0e47-434f-8642-9a4574a10fb8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Monterrey HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79158858001.png" group-title="OUTROS",MX: Televisa Monterrey HD
-http://ivageja84.online/live/8193237876/1850144201/bf9bc2fd-c700-45e9-9aad-d6410b70081c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11514154561.png" group-title="OUTROS",MX | Multimedios SD
 http://ivageja84.online/live/8193237876/1850144201/842807fd-f895-42ad-9dab-38098ff80bbd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Mundo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42298862061.png" group-title="OUTROS",MX | Azteca Mundo HD
 http://ivageja84.online/live/8193237876/1850144201/d2222e6d-a6bf-41f2-95c4-c61ed7900bb5.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios Monterrey HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32275005241.png" group-title="OUTROS",MX | Multimedios Monterrey HD
 http://ivageja84.online/live/8193237876/1850144201/20d264c4-c12c-4fa4-8055-1bfb088c512c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Laguna HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68072818781.png" group-title="OUTROS",MX: Multimedios Laguna HD
-http://ivageja84.online/live/8193237876/1850144201/5c5559e5-f429-49b3-aec8-74d8ab2e1843.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX Sport 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91590891411.png" group-title="OUTROS",MX: FOX Sport 1 HD
-http://ivageja84.online/live/8193237876/1850144201/3afdb96c-acc9-49d7-9783-fe3dce9469ac.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX Sport 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65367357021.png" group-title="OUTROS",MX: FOX Sport 2 HD
-http://ivageja84.online/live/8193237876/1850144201/305e7868-0727-4d1d-8517-284d08518967.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Telehit PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32539782261.png" group-title="OUTROS",MX: Telehit PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/3e59ed1c-3807-4d05-a347-a3b7b1ac1649.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30120953251.png" group-title="OUTROS",MX: Milenio TV HD
-http://ivageja84.online/live/8193237876/1850144201/955d0f06-b1e7-47cb-8728-e86d0b3f81de.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: ADN 40 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14702139461.png" group-title="OUTROS",MX: ADN 40 HD
-http://ivageja84.online/live/8193237876/1850144201/56538e1a-5806-4ca7-976b-5079bc3c86b5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TV4 Noticias HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56757243661.png" group-title="OUTROS",MX: TV4 Noticias HD
-http://ivageja84.online/live/8193237876/1850144201/5127e3ff-1d46-4de0-9463-a6eb914cdc33.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: LAS Estrellas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47861870851.png" group-title="OUTROS",MX: LAS Estrellas HD
-http://ivageja84.online/live/8193237876/1850144201/374b2353-b160-474f-aad9-b64a6137093b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: TVC Deportes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17827749831.png" group-title="OUTROS",MX: TVC Deportes HD
-http://ivageja84.online/live/8193237876/1850144201/81a665e7-78cc-4eda-926d-7c2e3445d551.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Adrenalina Sport Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65341234431.png" group-title="OUTROS",MX: Adrenalina Sport Network HD
-http://ivageja84.online/live/8193237876/1850144201/33781058-d4a2-492c-a0a3-0f477e5379ce.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Natgeo KIDS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28320069681.png" group-title="OUTROS",MX: Natgeo KIDS HD
-http://ivageja84.online/live/8193237876/1850144201/4f564fbd-d4d4-4ad0-9625-f93fd9fcfa33.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Tooncast HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37658606541.png" group-title="OUTROS",MX: Tooncast HD
-http://ivageja84.online/live/8193237876/1850144201/2cb40f04-834d-4bb0-b7e5-a4f9bfe54e33.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79828915721.png" group-title="OUTROS",MX: Distrito Comedia HD
-http://ivageja84.online/live/8193237876/1850144201/ad2bb7df-a105-469b-9d5e-6bd67f5a2808.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56655129491.png" group-title="OUTROS",MX: Garage TV HD
-http://ivageja84.online/live/8193237876/1850144201/6a077223-1c2d-4956-bd38-85f81b40bae0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Tlnovelas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90835105491.png" group-title="OUTROS",MX: Tlnovelas HD
-http://ivageja84.online/live/8193237876/1850144201/fe81cba4-255c-4cc9-8154-e324bf76aeea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85026935341.png" group-title="OUTROS",MX: Unicable HD
-http://ivageja84.online/live/8193237876/1850144201/605dcbec-de23-4966-bee4-58291e404191.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: AZ Mundo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21648621811.png" group-title="OUTROS",MX: AZ Mundo HD
-http://ivageja84.online/live/8193237876/1850144201/c3421f13-12fc-4f24-9927-51de85c6425e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: HOLA TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99036409601.png" group-title="OUTROS",MX: HOLA TV HD
-http://ivageja84.online/live/8193237876/1850144201/1719bf1f-9cf1-4b7b-9f75-ed623f9f7f6e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: A+ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42097724661.png" group-title="OUTROS",MX: A+ HD
-http://ivageja84.online/live/8193237876/1850144201/d65041c0-29a6-4e22-aa4b-e6bc939ff2a6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MX: Teleplay HD" tvg-logo="https://img-cdn.curl.pk/chimg/5169972058.jpg" group-title="OUTROS",MX: Teleplay HD
-http://ivageja84.online/live/8193237876/1850144201/19799af8-9a40-4d10-b157-e18564dafd64.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG: America 24 HQ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79069734911.png" group-title="OUTROS",ARG: America 24 HQ HD
 http://ivageja84.online/live/8193237876/1850144201/deebfd33-b98a-4455-8cb9-034431edba64.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG: America 2 HQ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73571847691.png" group-title="OUTROS",ARG: America 2 HQ HD
@@ -4093,98 +3289,6 @@ http://ivageja84.online/live/8193237876/1850144201/209c4f1f-eaba-468c-a368-5f468
 http://ivageja84.online/live/8193237876/1850144201/fb61185e-fa0d-4efa-8133-1a5258beb633.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ARG: 5TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/72837235111.png" group-title="OUTROS",ARG: 5TV HD
 http://ivageja84.online/live/8193237876/1850144201/b4710626-3243-4130-b8db-f448fca6f9b4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: WIN Sport HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15283706041.png" group-title="OUTROS",CO: WIN Sport HD
-http://ivageja84.online/live/8193237876/1850144201/d73d8b83-6f08-4b85-9b0f-61ab7ac3b933.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: WIN Sports + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92253261061.png" group-title="OUTROS",CO: WIN Sports + HD
-http://ivageja84.online/live/8193237876/1850144201/2a51741f-b1ac-4af7-8047-c38ce095e2c8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98063691051.png" group-title="OUTROS",CO: Canal 1 (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/147b9482-2c35-4a5d-9c85-152c3ee95fc9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11893007781.png" group-title="OUTROS",CO: Canal 1 SD
-http://ivageja84.online/live/8193237876/1850144201/93a41dd6-e83c-4a90-8e6e-d746bd07808d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30643727781.png" group-title="OUTROS",CO: Canal 1 HD
-http://ivageja84.online/live/8193237876/1850144201/842493b6-fae1-4a39-a5fc-5709ed015397.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90438564981.png" group-title="OUTROS",CO: Caracol SD
-http://ivageja84.online/live/8193237876/1850144201/8f9fa184-17e9-44e6-bcc6-f7fa5514c544.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol FULL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33583070401.png" group-title="OUTROS",CO: Caracol FULL HD
-http://ivageja84.online/live/8193237876/1850144201/0db3a303-8ed6-4ff0-97ef-a706aec0e715.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol INT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82465661771.png" group-title="OUTROS",CO: Caracol INT HD
-http://ivageja84.online/live/8193237876/1850144201/d477f707-adc1-4fc9-8ea6-a5b9eecc41a9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65866563551.png" group-title="OUTROS",CO: RCN HD
-http://ivageja84.online/live/8193237876/1850144201/c1ff49d0-c135-4cb3-93ff-ce352d9b0203.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN FULL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/48576730041.png" group-title="OUTROS",CO: RCN FULL HD
-http://ivageja84.online/live/8193237876/1850144201/e4d3622f-11b9-4865-8ba6-906db30ee2ea.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra TELE INT. SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63204206201.png" group-title="OUTROS",CO: RCN Nuestra TELE INT. SD
-http://ivageja84.online/live/8193237876/1850144201/6592f712-8c84-432f-a037-c996a5b0794e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nuestra TELE INT. FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96751704721.png" group-title="OUTROS",CO: RCN Nuestra TELE INT. FHD
-http://ivageja84.online/live/8193237876/1850144201/7acdf164-dc03-42a3-8b31-723a76cb35b2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/50873200021.png" group-title="OUTROS",CO: RCN Novelas SD
-http://ivageja84.online/live/8193237876/1850144201/23860280-557b-41fe-97f4-7744cc0ad3a7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Teleantioquia (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49744289911.png" group-title="OUTROS",CO: Teleantioquia (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/418fe504-d57c-410c-aeef-4a0a03d201f2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89054278191.png" group-title="OUTROS",CO: Telecafe (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/adf0445a-f332-4c58-ae9c-0b8612ca3344.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81846488131.png" group-title="OUTROS",CO: Telemedellin HD
-http://ivageja84.online/live/8193237876/1850144201/3df1e9ab-6836-454f-8aa8-3ae772e5ede5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18203785681.png" group-title="OUTROS",CO: Telecaribe (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/0124e1f3-4d71-4bd0-8550-f456e23caa53.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55839594541.png" group-title="OUTROS",CO: Telecaribe HD
-http://ivageja84.online/live/8193237876/1850144201/befd7060-c236-4c60-9e2b-ba0aee918afb.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Capital HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19433350031.png" group-title="OUTROS",CO: Canal Capital HD
-http://ivageja84.online/live/8193237876/1850144201/8570bdef-9c1e-4366-9a95-4c035b009570.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Suram TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88618165531.png" group-title="OUTROS",CO: Suram TV HD
-http://ivageja84.online/live/8193237876/1850144201/de3f4e1d-daeb-4b3d-bf95-f298f638e3d0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Ntn24 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46796253201.png" group-title="OUTROS",CO: Ntn24 SD
-http://ivageja84.online/live/8193237876/1850144201/e14a1cee-262f-4744-b04e-b28d110bb352.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Ntn24 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97163560491.png" group-title="OUTROS",CO: Ntn24 HD
-http://ivageja84.online/live/8193237876/1850144201/a688c39b-a7ac-41d3-be5d-44d14d7d4f47.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55302587461.png" group-title="OUTROS",CO: Pasiones HD
-http://ivageja84.online/live/8193237876/1850144201/c541d0ee-839d-4355-a3ca-85cc401c67fa.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones FULL HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98464550331.png" group-title="OUTROS",CO: Pasiones FULL HD
-http://ivageja84.online/live/8193237876/1850144201/33224f18-fc51-4eef-b03c-7e8f2e5f3430.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Cable Noticias FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51252619501.png" group-title="OUTROS",CO: Cable Noticias FHD
-http://ivageja84.online/live/8193237876/1850144201/0cd3f97c-841c-4325-b478-ceba74e251a0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Institucional HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69954428691.png" group-title="OUTROS",CO: Canal Institucional HD
-http://ivageja84.online/live/8193237876/1850144201/d134c6dd-6ed1-4ce0-afac-97408786d645.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Cantinazo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26997777651.png" group-title="OUTROS",CO: Cantinazo HD
-http://ivageja84.online/live/8193237876/1850144201/b9183e6a-1e91-4589-a495-06d9939d9912.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: CITY TV (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42388269861.png" group-title="OUTROS",CO: CITY TV (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/f16551d3-0866-438d-a91f-eaf341ab9ba9.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: EL Tiempo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31125884741.png" group-title="OUTROS",CO: EL Tiempo HD
-http://ivageja84.online/live/8193237876/1850144201/018bfde8-b774-4603-bc7a-74b0563d6d12.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Señal Colombia SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/54655704151.png" group-title="OUTROS",CO: Señal Colombia SD
-http://ivageja84.online/live/8193237876/1850144201/82132c28-6fc6-4ac8-92ff-904591182a84.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: TV AGRO SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64999870851.png" group-title="OUTROS",CO: TV AGRO SD
-http://ivageja84.online/live/8193237876/1850144201/1bd58677-fe4a-4327-a98f-e93862b74c12.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: TV AGRO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76429809381.png" group-title="OUTROS",CO: TV AGRO HD
-http://ivageja84.online/live/8193237876/1850144201/621d6aca-edad-4df3-b50e-3798d63cda5d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19228289411.png" group-title="OUTROS",CO: Telepacifico (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/d60aca34-3304-4d62-9286-417ab9d9cd32.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60615584441.png" group-title="OUTROS",CO: Telepacifico HD
-http://ivageja84.online/live/8193237876/1850144201/3c06ce1d-ac5e-43a9-baae-b3e4adf91de7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Teleisla SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69473433401.png" group-title="OUTROS",CO: Teleisla SD
-http://ivageja84.online/live/8193237876/1850144201/c93b408e-fb82-452b-bc89-37f722cb2a23.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Mundo + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/83420463221.png" group-title="OUTROS",CO: Canal Mundo + HD
-http://ivageja84.online/live/8193237876/1850144201/4d9bc42e-61ac-4491-a9cf-f269aef42283.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: ATN Televisión HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67553041661.png" group-title="OUTROS",CO: ATN Televisión HD
-http://ivageja84.online/live/8193237876/1850144201/88ab18dc-9c04-4265-81fc-aab538b1eae8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Trece (movil) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32193999801.png" group-title="OUTROS",CO: Trece (movil) HD
-http://ivageja84.online/live/8193237876/1850144201/88563c02-a33a-4ba2-95b7-9bd849bc61f8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: TELE Caribe HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27030695301.png" group-title="OUTROS",CO: TELE Caribe HD
-http://ivageja84.online/live/8193237876/1850144201/1d3c39f8-6dd9-4815-abc9-e516c6f4afb8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: CALI TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37644503631.png" group-title="OUTROS",CO: CALI TV HD
-http://ivageja84.online/live/8193237876/1850144201/2bf4cf41-30ab-4d6a-9103-afc46e2e0fcc.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal TRO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45873612221.png" group-title="OUTROS",CO: Canal TRO HD
-http://ivageja84.online/live/8193237876/1850144201/38fde17a-9ae5-4cff-b88d-85e82c0c4a08.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: DirecTV Sports PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63097030271.png" group-title="OUTROS",CO: DirecTV Sports PLUS HD
-http://ivageja84.online/live/8193237876/1850144201/1b9b03fa-0e15-452b-a154-f16f246c2bab.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Farra Music HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15672798361.png" group-title="OUTROS",CO: Farra Music HD
-http://ivageja84.online/live/8193237876/1850144201/c96d86df-f9b1-419e-9c94-abeaedcddffd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: Musica Tropical HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55832761841.png" group-title="OUTROS",CO: Musica Tropical HD
-http://ivageja84.online/live/8193237876/1850144201/0a32e1f5-1cc1-48c3-a2e8-a506962f621e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: HOLA TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20145649671.png" group-title="OUTROS",CO: HOLA TV HD
-http://ivageja84.online/live/8193237876/1850144201/a9fb8de9-759c-442e-9b3c-6a7e882c63b7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO: EL Gourmet HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62869998811.png" group-title="OUTROS",CO: EL Gourmet HD
-http://ivageja84.online/live/8193237876/1850144201/43634f79-c2ec-449e-946e-14bbac0542a8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CL : Ruidos TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46257393021.png" group-title="OUTROS",CL : Ruidos TV HD
 http://ivageja84.online/live/8193237876/1850144201/bd72f623-f33f-46c9-ad0b-15f85f71667e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CL : TV5 Linares HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61178807331.png" group-title="OUTROS",CL : TV5 Linares HD
